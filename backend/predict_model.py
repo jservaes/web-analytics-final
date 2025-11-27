@@ -7,10 +7,10 @@ from pathlib import Path
 import joblib
 import pandas as pd
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 MODEL_DIR = BASE_DIR / "models"
 
-MODEL_PATH = MODEL_DIR / "model_1y_xgb.pkl"
+MODEL_PATH = MODEL_DIR / "model_1y_gb.pkl"
 FEATURES_PATH = MODEL_DIR / "feature_columns.json"
 
 

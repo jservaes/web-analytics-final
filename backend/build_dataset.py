@@ -7,7 +7,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 INPUT_JSON = BASE_DIR / "stockInfo" / "us_companies.json"
 OUTPUT_CSV = BASE_DIR / "stock_dataset.csv"
 

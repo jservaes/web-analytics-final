@@ -5,10 +5,10 @@ import json
 import os
 import numpy as np
 
-
-DATASET_PATH = "stock_dataset.csv"
-MODELS_DIR = "models"
-OUTPUT_CSV = "predicted_returns.csv"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATASET_PATH = os.path.join(BASE_DIR, "stock_dataset.csv")
+MODELS_DIR = os.path.join(BASE_DIR, "models")
+OUTPUT_CSV = os.path.join(BASE_DIR, "predicted_returns.csv")
 
 TARGETS = ["1y", "2y", "3y", "4y", "5y"]
 

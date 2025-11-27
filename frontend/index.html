@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Stock Analytics Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="page">
+    <header class="header">
+      <h1>Stock Analytics Dashboard</h1>
+      <p>Interactive view of historical fundamentals and machine-learning predictions.</p>
+    </header>
+
+    <section class="controls">
+      <label for="ticker-select">Select company:</label>
+      <select id="ticker-select">
+        <option value="AAPL">AAPL – Apple</option>
+        <option value="MSFT">MSFT – Microsoft</option>
+        <option value="NVDA">NVDA – NVIDIA</option>
+        <option value="AMZN">AMZN – Amazon</option>
+        <option value="TSLA">TSLA – Tesla</option>
+        <option value="GOOGL">GOOGL – Alphabet</option>
+        <option value="META">META – Meta Platforms</option>
+        <option value="AVGO">AVGO – Broadcom</option>
+        <option value="BRK-B">BRK-B – Berkshire Hathaway</option>
+        <option value="LLY">LLY – Eli Lilly</option>
+      </select>
+      <button id="load-btn">Load</button>
+      <span id="status-text" class="status"></span>
+    </section>
+
+    <section id="summary" class="summary">
+      <div>
+        <h2 id="company-name">Company</h2>
+        <p id="company-ticker">Ticker: –</p>
+        <p id="latest-year">Latest year: –</p>
+      </div>
+      <div class="summary-cards">
+        <div class="card">
+          <h3>Predicted 1-Year Return</h3>
+          <p id="pred-return-1y" class="big-number">–</p>
+        </div>
+        <div class="card">
+          <h3>Predicted 1-Year Revenue</h3>
+          <p id="pred-revenue-1y" class="big-number">–</p>
+        </div>
+        <div class="card">
+          <h3>Predicted 1-Year Net Income</h3>
+          <p id="pred-ni-1y" class="big-number">–</p>
+        </div>
+        <div class="card">
+          <h3>Predicted 1-Year OCF</h3>
+          <p id="pred-ocf-1y" class="big-number">–</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="charts">
+      <div class="chart-card">
+        <h3>Price History (Mean Annual Price)</h3>
+        <canvas id="price-chart"></canvas>
+      </div>
+
+      <div class="chart-card">
+        <h3>Revenue vs Net Income</h3>
+        <canvas id="fundamentals-chart"></canvas>
+      </div>
+
+      <div class="chart-card">
+        <h3>Predicted Future Returns</h3>
+        <canvas id="returns-chart"></canvas>
+      </div>
+    </section>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

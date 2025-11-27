@@ -9,7 +9,7 @@
 # ensures the backend is giving the model the same exact features it was trained on and prevents mismatches 
 import json
 from pathlib import Path
-
+import os
 import joblib
 import numpy as np
 import pandas as pd
@@ -17,10 +17,11 @@ from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 # Paths
-BASE_DIR = Path(__file__).resolve().parent
-DATA_PATH = BASE_DIR / "stock_dataset.csv"
-MODEL_DIR = BASE_DIR / "models"
-MODEL_DIR.mkdir(exist_ok=True, parents=True)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "stock_dataset.csv")
+MODELS_DIR = os.path.join(BASE_DIR, "models")
+os.makedirs(MODELS_DIR, exist_ok=True)
+
 
 # Columns that should NEVER be used as numeric features
 ID_COLS = ["ticker", "cik", "name", "year"]
@@ -36,7 +37,7 @@ TARGET_MAP = {
 
 
 def load_dataset():
-    if not DATA_PATH.exists():
+    if not os.path.exists(DATA_PATH):
         raise FileNotFoundError(f"Dataset not found at {DATA_PATH}")
 
     df = pd.read_csv(DATA_PATH)
@@ -104,7 +105,7 @@ def train_one_horizon(h_label: str, df: pd.DataFrame, feature_cols):
     print("  Train:", train_metrics)
     print("  Test :", test_metrics)
 
-    model_path = MODEL_DIR / f"model_{h_label}_gb.pkl"
+    model_path = os.path.join(MODELS_DIR, f"model_{h_label}_gb.pkl")
     joblib.dump(model, model_path)
     print(f"  Saved model to {model_path}")
 
@@ -118,7 +119,7 @@ def main():
     print(f"Feature columns ({len(feature_cols)}): {feature_cols}")
 
     # Save feature list (used later when loading models)
-    feature_path = MODEL_DIR / "feature_columns.json"
+    feature_path = os.path.join(MODELS_DIR, "feature_columns.json")
     with open(feature_path, "w") as f:
         json.dump(feature_cols, f, indent=2)
     print(f"Saved feature column list → {feature_path}")
@@ -130,7 +131,7 @@ def main():
         except ValueError as e:
             print(f"Skipping horizon {h} due to error: {e}")
 
-    metrics_path = MODEL_DIR / "metrics_multi_year.json"
+    metrics_path = os.path.join(MODELS_DIR, "metrics_multi_year.json")
     with open(metrics_path, "w") as f:
         json.dump(all_metrics, f, indent=2)
     print(f"\nSaved metrics for all horizons → {metrics_path}")

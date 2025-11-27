@@ -95,8 +95,10 @@ def retrieveCompanyData(cik: str):
 
 
 def save_all_companies(companies: dict, filename: str = "us_companies.json"):
-    os.makedirs("stockInfo", exist_ok=True)
-    path = os.path.join("stockInfo", filename)
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    stockinfo_dir = os.path.join(BASE_DIR, "stockInfo")
+    os.makedirs(stockinfo_dir, exist_ok=True)
+    path = os.path.join(stockinfo_dir, filename)
     with open(path, "w") as f:
         json.dump(companies, f, indent=2)
     return path
