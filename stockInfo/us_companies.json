@@ -1,0 +1,6716 @@
+{
+  "NVDA": {
+    "cik": "0001045810",
+    "name": "NVIDIA CORP",
+    "2012": {
+      "quarterly": {
+        "2012-01-29": {
+          "revenue": 953194000,
+          "net_income": 116025000,
+          "assets": 5552928000,
+          "equity": 4145724000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-04-29": {
+          "revenue": 924877000,
+          "net_income": 60437000,
+          "assets": 5708167000,
+          "equity": 4287428000,
+          "debt": null,
+          "operating_cash_flow": -9208000
+        },
+        "2012-07-29": {
+          "revenue": 1044270000,
+          "net_income": 119046000,
+          "assets": 5891881000,
+          "equity": 4453665000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-10-28": {
+          "revenue": 1204110000,
+          "net_income": 209080000,
+          "assets": 6075144000,
+          "equity": 4722846000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 4126451000,
+        "net_income": 504588000,
+        "assets": 6075144000,
+        "equity": 4722846000,
+        "debt": null,
+        "operating_cash_flow": -9208000,
+        "stock_price": {
+          "max_price": 0.3770691454410553,
+          "min_price": 0.26085391640663147,
+          "mean_price": 0.309831724524498,
+          "median_price": 0.304635226726532
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-01-27": {
+          "revenue": 1106902000,
+          "net_income": 173973000,
+          "assets": 6412245000,
+          "equity": 4827000000,
+          "debt": 0,
+          "operating_cash_flow": null
+        },
+        "2013-04-28": {
+          "revenue": 954739000,
+          "net_income": 77891000,
+          "assets": 6279527000,
+          "equity": 4824936000,
+          "debt": null,
+          "operating_cash_flow": 175650000
+        },
+        "2013-07-28": {
+          "revenue": 977238000,
+          "net_income": 96448000,
+          "assets": 5569592000,
+          "equity": 4172173000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2013-10-27": {
+          "revenue": 1053967000,
+          "net_income": 118734000,
+          "assets": 5711373000,
+          "equity": 4320647000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 4092846000,
+        "net_income": 467046000,
+        "assets": 5711373000,
+        "equity": 4320647000,
+        "debt": 0,
+        "operating_cash_flow": 175650000,
+        "stock_price": {
+          "max_price": 0.3803116977214813,
+          "min_price": 0.27637889981269836,
+          "mean_price": 0.33108869419684483,
+          "median_price": 0.33699411153793335
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-01-26": {
+          "revenue": 1144218000,
+          "net_income": 146917000,
+          "assets": 7250894000,
+          "equity": 4455000000,
+          "debt": 1356375000,
+          "operating_cash_flow": null
+        },
+        "2014-04-27": {
+          "revenue": 1103000000,
+          "net_income": 137000000,
+          "assets": 6864663000,
+          "equity": 4166985000,
+          "debt": 1363276000,
+          "operating_cash_flow": 151000000
+        },
+        "2014-07-27": {
+          "revenue": 1103000000,
+          "net_income": 128000000,
+          "assets": 6933719000,
+          "equity": 4304786000,
+          "debt": 1370249000,
+          "operating_cash_flow": null
+        },
+        "2014-10-26": {
+          "revenue": 1225000000,
+          "net_income": 173000000,
+          "assets": 6885869000,
+          "equity": 4204593000,
+          "debt": 1377259000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 4575218000,
+        "net_income": 584917000,
+        "assets": 6885869000,
+        "equity": 4204593000,
+        "debt": 1377259000,
+        "operating_cash_flow": 151000000,
+        "stock_price": {
+          "max_price": 0.507274329662323,
+          "min_price": 0.3620977997779846,
+          "mean_price": 0.4412544923169272,
+          "median_price": 0.4420541375875473
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-01-25": {
+          "revenue": 1251000000,
+          "net_income": 193000000,
+          "assets": 7201000000,
+          "equity": 4418000000,
+          "debt": 1384000000,
+          "operating_cash_flow": null
+        },
+        "2015-04-26": {
+          "revenue": 1151000000,
+          "net_income": 134000000,
+          "assets": 7291000000,
+          "equity": 4556000000,
+          "debt": 1391000000,
+          "operating_cash_flow": 246000000
+        },
+        "2015-07-26": {
+          "revenue": 1153000000,
+          "net_income": 26000000,
+          "assets": 6979000000,
+          "equity": 4185000000,
+          "debt": 1399000000,
+          "operating_cash_flow": null
+        },
+        "2015-10-25": {
+          "revenue": 1305000000,
+          "net_income": 247000000,
+          "assets": 7174000000,
+          "equity": 4465000000,
+          "debt": 1406000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 4860000000,
+        "net_income": 600000000,
+        "assets": 7174000000,
+        "equity": 4465000000,
+        "debt": 1406000000,
+        "operating_cash_flow": 246000000,
+        "stock_price": {
+          "max_price": 0.8232954740524292,
+          "min_price": 0.459282249212265,
+          "mean_price": 0.5742409217452246,
+          "median_price": 0.5372199416160583
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-01-31": {
+          "revenue": 1401000000,
+          "net_income": 207000000,
+          "assets": 7370000000,
+          "equity": 4469000000,
+          "debt": 0,
+          "operating_cash_flow": null
+        },
+        "2016-05-01": {
+          "revenue": 1305000000,
+          "net_income": 208000000,
+          "assets": 7108000000,
+          "equity": 4196000000,
+          "debt": null,
+          "operating_cash_flow": 319000000
+        },
+        "2016-07-31": {
+          "revenue": 1428000000,
+          "net_income": 261000000,
+          "assets": 7461000000,
+          "equity": 4480000000,
+          "debt": null,
+          "operating_cash_flow": 201000000
+        },
+        "2016-10-30": {
+          "revenue": 2004000000,
+          "net_income": 542000000,
+          "assets": 9612000000,
+          "equity": 5324000000,
+          "debt": 1982000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 6138000000,
+        "net_income": 1218000000,
+        "assets": 9612000000,
+        "equity": 5324000000,
+        "debt": 1982000000,
+        "operating_cash_flow": 520000000,
+        "stock_price": {
+          "max_price": 2.8894081115722656,
+          "min_price": 0.6152151823043823,
+          "mean_price": 1.3200748896314984,
+          "median_price": 1.168530523777008
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-01-29": {
+          "revenue": 2173000000,
+          "net_income": 655000000,
+          "assets": 9841000000,
+          "equity": 5762000000,
+          "debt": 1983000000,
+          "operating_cash_flow": null
+        },
+        "2017-04-30": {
+          "revenue": 1937000000,
+          "net_income": 507000000,
+          "assets": 9410000000,
+          "equity": 6132000000,
+          "debt": 1984000000,
+          "operating_cash_flow": 282000000
+        },
+        "2017-07-30": {
+          "revenue": 2230000000,
+          "net_income": 583000000,
+          "assets": 9402000000,
+          "equity": 5973000000,
+          "debt": 1984000000,
+          "operating_cash_flow": null
+        },
+        "2017-10-29": {
+          "revenue": 2636000000,
+          "net_income": 838000000,
+          "assets": 9830000000,
+          "equity": 6352000000,
+          "debt": 1985000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 8976000000,
+        "net_income": 2583000000,
+        "assets": 9830000000,
+        "equity": 6352000000,
+        "debt": 1985000000,
+        "operating_cash_flow": 282000000,
+        "stock_price": {
+          "max_price": 5.364204406738281,
+          "min_price": 2.3547377586364746,
+          "mean_price": 3.6978265688238867,
+          "median_price": 3.847975015640259
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-01-28": {
+          "revenue": 2911000000,
+          "net_income": 1118000000,
+          "assets": 11241000000,
+          "equity": 7471000000,
+          "debt": 1985000000,
+          "operating_cash_flow": null
+        },
+        "2018-04-29": {
+          "revenue": 3207000000,
+          "net_income": 1244000000,
+          "assets": 11460000000,
+          "equity": 7717000000,
+          "debt": 1986000000,
+          "operating_cash_flow": 1445000000
+        },
+        "2018-07-29": {
+          "revenue": 3123000000,
+          "net_income": 1101000000,
+          "assets": 12882000000,
+          "equity": 8795000000,
+          "debt": 1987000000,
+          "operating_cash_flow": null
+        },
+        "2018-10-28": {
+          "revenue": 3181000000,
+          "net_income": 1230000000,
+          "assets": 13657000000,
+          "equity": 9475000000,
+          "debt": 1987000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 12422000000,
+        "net_income": 4693000000,
+        "assets": 13657000000,
+        "equity": 9475000000,
+        "debt": 1987000000,
+        "operating_cash_flow": 1445000000,
+        "stock_price": {
+          "max_price": 7.167042255401611,
+          "min_price": 3.1507434844970703,
+          "mean_price": 5.752063010318346,
+          "median_price": 5.996665954589844
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-01-27": {
+          "revenue": 2205000000,
+          "net_income": 567000000,
+          "assets": 13292000000,
+          "equity": 9342000000,
+          "debt": 1988000000,
+          "operating_cash_flow": null
+        },
+        "2019-04-28": {
+          "revenue": 2220000000,
+          "net_income": 394000000,
+          "assets": 14021000000,
+          "equity": 9704000000,
+          "debt": 1988000000,
+          "operating_cash_flow": 720000000
+        },
+        "2019-07-28": {
+          "revenue": 2579000000,
+          "net_income": 552000000,
+          "assets": 14775000000,
+          "equity": 10336000000,
+          "debt": 1989000000,
+          "operating_cash_flow": null
+        },
+        "2019-10-27": {
+          "revenue": 3014000000,
+          "net_income": 899000000,
+          "assets": 15810000000,
+          "equity": 11214000000,
+          "debt": 1990000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 10018000000,
+        "net_income": 2412000000,
+        "assets": 15810000000,
+        "equity": 11214000000,
+        "debt": 1990000000,
+        "operating_cash_flow": 720000000,
+        "stock_price": {
+          "max_price": 5.957969665527344,
+          "min_price": 3.1733052730560303,
+          "mean_price": 4.337636221968938,
+          "median_price": 4.2557148933410645
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-01-26": {
+          "revenue": 3105000000,
+          "net_income": 950000000,
+          "assets": 17315000000,
+          "equity": 12204000000,
+          "debt": 1991000000,
+          "operating_cash_flow": null
+        },
+        "2020-04-26": {
+          "revenue": 3080000000,
+          "net_income": 917000000,
+          "assets": 23254000000,
+          "equity": 13099000000,
+          "debt": 6959000000,
+          "operating_cash_flow": 909000000
+        },
+        "2020-07-26": {
+          "revenue": 3866000000,
+          "net_income": 622000000,
+          "assets": 25180000000,
+          "equity": 13914000000,
+          "debt": 6960000000,
+          "operating_cash_flow": null
+        },
+        "2020-10-25": {
+          "revenue": 4726000000,
+          "net_income": 1336000000,
+          "assets": 26881000000,
+          "equity": 15334000000,
+          "debt": 6961000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 14777000000,
+        "net_income": 3825000000,
+        "assets": 26881000000,
+        "equity": 15334000000,
+        "debt": 6961000000,
+        "operating_cash_flow": 909000000,
+        "stock_price": {
+          "max_price": 14.517683982849121,
+          "min_price": 4.891359806060791,
+          "mean_price": 9.857411429816084,
+          "median_price": 9.580131530761719
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-01-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 28791000000,
+          "equity": 16893000000,
+          "debt": 6963000000,
+          "operating_cash_flow": null
+        },
+        "2021-05-02": {
+          "revenue": 5661000000,
+          "net_income": 1912000000,
+          "assets": 30796000000,
+          "equity": 18774000000,
+          "debt": 6963000000,
+          "operating_cash_flow": 1874000000
+        },
+        "2021-08-01": {
+          "revenue": 6507000000,
+          "net_income": 2374000000,
+          "assets": 38650000000,
+          "equity": 21147000000,
+          "debt": 11943000000,
+          "operating_cash_flow": null
+        },
+        "2021-10-31": {
+          "revenue": 7103000000,
+          "net_income": 2464000000,
+          "assets": 40632000000,
+          "equity": 23798000000,
+          "debt": 10944000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 19271000000,
+        "net_income": 6750000000,
+        "assets": 40632000000,
+        "equity": 23798000000,
+        "debt": 10944000000,
+        "operating_cash_flow": 1874000000,
+        "stock_price": {
+          "max_price": 33.309242248535156,
+          "min_price": 11.561383247375488,
+          "mean_price": 19.479190784787374,
+          "median_price": 19.164960861206055
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-01-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 44187000000,
+          "equity": 26612000000,
+          "debt": 10946000000,
+          "operating_cash_flow": null
+        },
+        "2022-05-01": {
+          "revenue": 8288000000,
+          "net_income": 1618000000,
+          "assets": 45212000000,
+          "equity": 26320000000,
+          "debt": 10947000000,
+          "operating_cash_flow": 1731000000
+        },
+        "2022-07-31": {
+          "revenue": 6704000000,
+          "net_income": 656000000,
+          "assets": 43476000000,
+          "equity": 23851000000,
+          "debt": 10949000000,
+          "operating_cash_flow": null
+        },
+        "2022-10-30": {
+          "revenue": 5931000000,
+          "net_income": 680000000,
+          "assets": 40488000000,
+          "equity": 21349000000,
+          "debt": 10950000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 20923000000,
+        "net_income": 2954000000,
+        "assets": 40488000000,
+        "equity": 21349000000,
+        "debt": 10950000000,
+        "operating_cash_flow": 1731000000,
+        "stock_price": {
+          "max_price": 30.064443588256836,
+          "min_price": 11.21352767944336,
+          "mean_price": 18.540146409752836,
+          "median_price": 17.196224212646484
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-01-29": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 41182000000,
+          "equity": 22101000000,
+          "debt": 10953000000,
+          "operating_cash_flow": null
+        },
+        "2023-04-30": {
+          "revenue": 7192000000,
+          "net_income": 2043000000,
+          "assets": 44460000000,
+          "equity": 24520000000,
+          "debt": 10954000000,
+          "operating_cash_flow": 2911000000
+        },
+        "2023-07-30": {
+          "revenue": 13507000000,
+          "net_income": 6188000000,
+          "assets": 49555000000,
+          "equity": 27501000000,
+          "debt": 9705000000,
+          "operating_cash_flow": null
+        },
+        "2023-10-29": {
+          "revenue": 18120000000,
+          "net_income": 9243000000,
+          "assets": 54148000000,
+          "equity": 33265000000,
+          "debt": 9706000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 38819000000,
+        "net_income": 17474000000,
+        "assets": 54148000000,
+        "equity": 33265000000,
+        "debt": 9706000000,
+        "operating_cash_flow": 2911000000,
+        "stock_price": {
+          "max_price": 50.37930679321289,
+          "min_price": 14.25152587890625,
+          "mean_price": 36.54453727722168,
+          "median_price": 41.86709785461426
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-01-28": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 65728000000,
+          "equity": 42978000000,
+          "debt": 9709000000,
+          "operating_cash_flow": null
+        },
+        "2024-04-28": {
+          "revenue": 26044000000,
+          "net_income": 14881000000,
+          "assets": 77072000000,
+          "equity": 49142000000,
+          "debt": 9710000000,
+          "operating_cash_flow": 15345000000
+        },
+        "2024-07-28": {
+          "revenue": 30040000000,
+          "net_income": 16599000000,
+          "assets": 85227000000,
+          "equity": 58157000000,
+          "debt": 8461000000,
+          "operating_cash_flow": null
+        },
+        "2024-10-27": {
+          "revenue": 35082000000,
+          "net_income": 19309000000,
+          "assets": 96013000000,
+          "equity": 65899000000,
+          "debt": 8462000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 91166000000,
+        "net_income": 50789000000,
+        "assets": 96013000000,
+        "equity": 65899000000,
+        "debt": 8462000000,
+        "operating_cash_flow": 15345000000,
+        "stock_price": {
+          "max_price": 148.83734130859375,
+          "min_price": 47.54515838623047,
+          "mean_price": 107.78601996103923,
+          "median_price": 115.25231170654297
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-01-26": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 111601000000,
+          "equity": 79327000000,
+          "debt": 8463000000,
+          "operating_cash_flow": null
+        },
+        "2025-04-27": {
+          "revenue": 44062000000,
+          "net_income": 18775000000,
+          "assets": 125254000000,
+          "equity": 83843000000,
+          "debt": 8464000000,
+          "operating_cash_flow": 27414000000
+        },
+        "2025-07-27": {
+          "revenue": 46743000000,
+          "net_income": 26422000000,
+          "assets": 140740000000,
+          "equity": 100131000000,
+          "debt": 8466000000,
+          "operating_cash_flow": null
+        },
+        "2025-10-26": {
+          "revenue": 57006000000,
+          "net_income": 31910000000,
+          "assets": 161148000000,
+          "equity": 118897000000,
+          "debt": 8467000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 147811000000,
+        "net_income": 77107000000,
+        "assets": 161148000000,
+        "equity": 118897000000,
+        "debt": 8467000000,
+        "operating_cash_flow": 27414000000,
+        "stock_price": {
+          "max_price": 207.0399932861328,
+          "min_price": 94.29813385009766,
+          "mean_price": 151.03249833027172,
+          "median_price": 145.47178649902344
+        }
+      }
+    }
+  },
+  "AAPL": {
+    "cik": "0000320193",
+    "name": "Apple Inc.",
+    "2012": {
+      "quarterly": {
+        "2012-03-31": {
+          "revenue": 39186000000,
+          "net_income": 11622000000,
+          "assets": 150934000000,
+          "equity": 102498000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-06-30": {
+          "revenue": 35023000000,
+          "net_income": 8824000000,
+          "assets": 162896000000,
+          "equity": 111746000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-09-29": {
+          "revenue": 35966000000,
+          "net_income": 8223000000,
+          "assets": 176064000000,
+          "equity": 118210000000,
+          "debt": 0,
+          "operating_cash_flow": null
+        },
+        "2012-12-29": {
+          "revenue": 54512000000,
+          "net_income": 13078000000,
+          "assets": 196088000000,
+          "equity": 127346000000,
+          "debt": null,
+          "operating_cash_flow": 23426000000
+        }
+      },
+      "yearly": {
+        "revenue": 164687000000,
+        "net_income": 41747000000,
+        "assets": 196088000000,
+        "equity": 127346000000,
+        "debt": 0,
+        "operating_cash_flow": 23426000000,
+        "stock_price": {
+          "max_price": 21.14711570739746,
+          "min_price": 12.33321762084961,
+          "mean_price": 17.31825257110596,
+          "median_price": 17.486428260803223
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-03-30": {
+          "revenue": 43603000000,
+          "net_income": 9547000000,
+          "assets": 194743000000,
+          "equity": 135490000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2013-06-29": {
+          "revenue": 35323000000,
+          "net_income": 6900000000,
+          "assets": 199856000000,
+          "equity": 123354000000,
+          "debt": 16958000000,
+          "operating_cash_flow": null
+        },
+        "2013-09-28": {
+          "revenue": 37472000000,
+          "net_income": 7512000000,
+          "assets": 207000000000,
+          "equity": 123549000000,
+          "debt": 16960000000,
+          "operating_cash_flow": null
+        },
+        "2013-12-28": {
+          "revenue": 57594000000,
+          "net_income": 13072000000,
+          "assets": 225184000000,
+          "equity": 129684000000,
+          "debt": 16961000000,
+          "operating_cash_flow": 22670000000
+        }
+      },
+      "yearly": {
+        "revenue": 173992000000,
+        "net_income": 37031000000,
+        "assets": 225184000000,
+        "equity": 129684000000,
+        "debt": 16961000000,
+        "operating_cash_flow": 22670000000,
+        "stock_price": {
+          "max_price": 17.682758331298828,
+          "min_price": 11.885281562805176,
+          "mean_price": 14.495104006358556,
+          "median_price": 14.04926872253418
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-03-29": {
+          "revenue": 45646000000,
+          "net_income": 10223000000,
+          "assets": 205989000000,
+          "equity": 120179000000,
+          "debt": 16962000000,
+          "operating_cash_flow": null
+        },
+        "2014-06-28": {
+          "revenue": 37432000000,
+          "net_income": 7748000000,
+          "assets": 222520000000,
+          "equity": 120940000000,
+          "debt": 29030000000,
+          "operating_cash_flow": null
+        },
+        "2014-09-27": {
+          "revenue": 42123000000,
+          "net_income": 8467000000,
+          "assets": 231839000000,
+          "equity": 111547000000,
+          "debt": 28987000000,
+          "operating_cash_flow": null
+        },
+        "2014-12-27": {
+          "revenue": 74599000000,
+          "net_income": 18024000000,
+          "assets": 261894000000,
+          "equity": 123328000000,
+          "debt": 32504000000,
+          "operating_cash_flow": 33722000000
+        }
+      },
+      "yearly": {
+        "revenue": 199800000000,
+        "net_income": 44462000000,
+        "assets": 261894000000,
+        "equity": 123328000000,
+        "debt": 32504000000,
+        "operating_cash_flow": 33722000000,
+        "stock_price": {
+          "max_price": 26.381309509277344,
+          "min_price": 15.501914024353027,
+          "mean_price": 20.28635643398951,
+          "median_price": 20.624388694763184
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-28": {
+          "revenue": 58010000000,
+          "net_income": 13569000000,
+          "assets": 261194000000,
+          "equity": 129006000000,
+          "debt": 40072000000,
+          "operating_cash_flow": null
+        },
+        "2015-06-27": {
+          "revenue": 49605000000,
+          "net_income": 10677000000,
+          "assets": 273151000000,
+          "equity": 125677000000,
+          "debt": 47419000000,
+          "operating_cash_flow": null
+        },
+        "2015-09-26": {
+          "revenue": 51501000000,
+          "net_income": 11124000000,
+          "assets": 290345000000,
+          "equity": 119355000000,
+          "debt": 53329000000,
+          "operating_cash_flow": null
+        },
+        "2015-12-26": {
+          "revenue": 75872000000,
+          "net_income": 18361000000,
+          "assets": 293284000000,
+          "equity": 128267000000,
+          "debt": 53204000000,
+          "operating_cash_flow": 27463000000
+        }
+      },
+      "yearly": {
+        "revenue": 234988000000,
+        "net_income": 53731000000,
+        "assets": 293284000000,
+        "equity": 128267000000,
+        "debt": 53204000000,
+        "operating_cash_flow": 27463000000,
+        "stock_price": {
+          "max_price": 29.62220001220703,
+          "min_price": 23.15126609802246,
+          "mean_price": 26.84468282215179,
+          "median_price": 26.97919273376465
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-26": {
+          "revenue": 50557000000,
+          "net_income": 10516000000,
+          "assets": 305277000000,
+          "equity": 130457000000,
+          "debt": 69374000000,
+          "operating_cash_flow": null
+        },
+        "2016-06-25": {
+          "revenue": 42358000000,
+          "net_income": 7796000000,
+          "assets": 305602000000,
+          "equity": 126541000000,
+          "debt": 68939000000,
+          "operating_cash_flow": null
+        },
+        "2016-09-24": {
+          "revenue": 46852000000,
+          "net_income": 9014000000,
+          "assets": 321686000000,
+          "equity": 128249000000,
+          "debt": 75427000000,
+          "operating_cash_flow": null
+        },
+        "2016-12-31": {
+          "revenue": 78351000000,
+          "net_income": 17891000000,
+          "assets": 331141000000,
+          "equity": 132390000000,
+          "debt": 73557000000,
+          "operating_cash_flow": 27234000000
+        }
+      },
+      "yearly": {
+        "revenue": 218118000000,
+        "net_income": 45217000000,
+        "assets": 331141000000,
+        "equity": 132390000000,
+        "debt": 73557000000,
+        "operating_cash_flow": 27234000000,
+        "stock_price": {
+          "max_price": 27.11568260192871,
+          "min_price": 20.604074478149414,
+          "mean_price": 23.87772460210891,
+          "median_price": 24.016921997070312
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-04-01": {
+          "revenue": 52896000000,
+          "net_income": 11029000000,
+          "assets": 334532000000,
+          "equity": 134082000000,
+          "debt": 84531000000,
+          "operating_cash_flow": null
+        },
+        "2017-07-01": {
+          "revenue": 45408000000,
+          "net_income": 8717000000,
+          "assets": 345173000000,
+          "equity": 132425000000,
+          "debt": 89864000000,
+          "operating_cash_flow": null
+        },
+        "2017-09-30": {
+          "revenue": 52579000000,
+          "net_income": 10714000000,
+          "assets": 375319000000,
+          "equity": 134047000000,
+          "debt": 97207000000,
+          "operating_cash_flow": null
+        },
+        "2017-12-30": {
+          "revenue": 88293000000,
+          "net_income": 20065000000,
+          "assets": 406794000000,
+          "equity": 140199000000,
+          "debt": 103922000000,
+          "operating_cash_flow": 28293000000
+        }
+      },
+      "yearly": {
+        "revenue": 239176000000,
+        "net_income": 50525000000,
+        "assets": 406794000000,
+        "equity": 140199000000,
+        "debt": 103922000000,
+        "operating_cash_flow": 28293000000,
+        "stock_price": {
+          "max_price": 41.31614303588867,
+          "min_price": 26.74091911315918,
+          "mean_price": 35.01412813407016,
+          "median_price": 35.45642852783203
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 61137000000,
+          "net_income": 13822000000,
+          "assets": 367502000000,
+          "equity": 126878000000,
+          "debt": 101362000000,
+          "operating_cash_flow": null
+        },
+        "2018-06-30": {
+          "revenue": 53265000000,
+          "net_income": 11519000000,
+          "assets": 349197000000,
+          "equity": 114949000000,
+          "debt": 97128000000,
+          "operating_cash_flow": null
+        },
+        "2018-09-29": {
+          "revenue": 62900000000,
+          "net_income": 14125000000,
+          "assets": 365725000000,
+          "equity": 107147000000,
+          "debt": 93735000000,
+          "operating_cash_flow": null
+        },
+        "2018-12-29": {
+          "revenue": 84310000000,
+          "net_income": 19965000000,
+          "assets": 373719000000,
+          "equity": 117892000000,
+          "debt": 92989000000,
+          "operating_cash_flow": 26690000000
+        }
+      },
+      "yearly": {
+        "revenue": 261612000000,
+        "net_income": 59431000000,
+        "assets": 373719000000,
+        "equity": 117892000000,
+        "debt": 92989000000,
+        "operating_cash_flow": 26690000000,
+        "stock_price": {
+          "max_price": 54.973045349121094,
+          "min_price": 34.90264892578125,
+          "mean_price": 44.63873771272333,
+          "median_price": 43.97911071777344
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-30": {
+          "revenue": 58015000000,
+          "net_income": 11561000000,
+          "assets": 341998000000,
+          "equity": 105860000000,
+          "debt": 90201000000,
+          "operating_cash_flow": null
+        },
+        "2019-06-29": {
+          "revenue": 53809000000,
+          "net_income": 10044000000,
+          "assets": 322239000000,
+          "equity": 96456000000,
+          "debt": 84936000000,
+          "operating_cash_flow": null
+        },
+        "2019-09-28": {
+          "revenue": 64040000000,
+          "net_income": 13686000000,
+          "assets": 338516000000,
+          "equity": 90488000000,
+          "debt": 91807000000,
+          "operating_cash_flow": null
+        },
+        "2019-12-28": {
+          "revenue": 91819000000,
+          "net_income": 22236000000,
+          "assets": 340618000000,
+          "equity": 89531000000,
+          "debt": 93078000000,
+          "operating_cash_flow": 30516000000
+        }
+      },
+      "yearly": {
+        "revenue": 267683000000,
+        "net_income": 57527000000,
+        "assets": 340618000000,
+        "equity": 89531000000,
+        "debt": 93078000000,
+        "operating_cash_flow": 30516000000,
+        "stock_price": {
+          "max_price": 70.8517074584961,
+          "min_price": 33.79967498779297,
+          "mean_price": 49.948819538903614,
+          "median_price": 48.68516159057617
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-28": {
+          "revenue": 58313000000,
+          "net_income": 11249000000,
+          "assets": 320400000000,
+          "equity": 78425000000,
+          "debt": 89086000000,
+          "operating_cash_flow": null
+        },
+        "2020-06-27": {
+          "revenue": 59685000000,
+          "net_income": 11253000000,
+          "assets": 317344000000,
+          "equity": 72282000000,
+          "debt": 94048000000,
+          "operating_cash_flow": null
+        },
+        "2020-09-26": {
+          "revenue": 64698000000,
+          "net_income": 12673000000,
+          "assets": 323888000000,
+          "equity": 65339000000,
+          "debt": 98667000000,
+          "operating_cash_flow": null
+        },
+        "2020-12-26": {
+          "revenue": 111439000000,
+          "net_income": 28755000000,
+          "assets": 354054000000,
+          "equity": 66224000000,
+          "debt": 99281000000,
+          "operating_cash_flow": 38763000000
+        }
+      },
+      "yearly": {
+        "revenue": 294135000000,
+        "net_income": 63930000000,
+        "assets": 354054000000,
+        "equity": 66224000000,
+        "debt": 99281000000,
+        "operating_cash_flow": 38763000000,
+        "stock_price": {
+          "max_price": 133.0612335205078,
+          "min_price": 54.264339447021484,
+          "mean_price": 92.52060506466348,
+          "median_price": 88.8859634399414
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-03-27": {
+          "revenue": 89584000000,
+          "net_income": 23630000000,
+          "assets": 337158000000,
+          "equity": 69178000000,
+          "debt": 108642000000,
+          "operating_cash_flow": null
+        },
+        "2021-06-26": {
+          "revenue": 81434000000,
+          "net_income": 21744000000,
+          "assets": 329840000000,
+          "equity": 64280000000,
+          "debt": 105752000000,
+          "operating_cash_flow": null
+        },
+        "2021-09-25": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 351002000000,
+          "equity": 63090000000,
+          "debt": 109106000000,
+          "operating_cash_flow": null
+        },
+        "2021-12-25": {
+          "revenue": 123945000000,
+          "net_income": 34630000000,
+          "assets": 381191000000,
+          "equity": 71932000000,
+          "debt": 117800000000,
+          "operating_cash_flow": 46966000000
+        }
+      },
+      "yearly": {
+        "revenue": 294963000000,
+        "net_income": 80004000000,
+        "assets": 381191000000,
+        "equity": 71932000000,
+        "debt": 117800000000,
+        "operating_cash_flow": 46966000000,
+        "stock_price": {
+          "max_price": 176.62481689453125,
+          "min_price": 113.44017791748047,
+          "mean_price": 137.72312382289343,
+          "median_price": 138.14893341064453
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-26": {
+          "revenue": 97278000000,
+          "net_income": 25010000000,
+          "assets": 350662000000,
+          "equity": 67399000000,
+          "debt": 113000000000,
+          "operating_cash_flow": null
+        },
+        "2022-06-25": {
+          "revenue": 82959000000,
+          "net_income": 19442000000,
+          "assets": 336309000000,
+          "equity": 58107000000,
+          "debt": 108700000000,
+          "operating_cash_flow": null
+        },
+        "2022-09-24": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 352755000000,
+          "equity": 50672000000,
+          "debt": 110087000000,
+          "operating_cash_flow": null
+        },
+        "2022-12-31": {
+          "revenue": 117154000000,
+          "net_income": 29998000000,
+          "assets": 346747000000,
+          "equity": 56727000000,
+          "debt": 109400000000,
+          "operating_cash_flow": 34005000000
+        }
+      },
+      "yearly": {
+        "revenue": 297391000000,
+        "net_income": 74450000000,
+        "assets": 346747000000,
+        "equity": 56727000000,
+        "debt": 109400000000,
+        "operating_cash_flow": 34005000000,
+        "stock_price": {
+          "max_price": 178.27029418945312,
+          "min_price": 124.16678619384766,
+          "mean_price": 152.08749043134105,
+          "median_price": 151.33827209472656
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-04-01": {
+          "revenue": 94836000000,
+          "net_income": 24160000000,
+          "assets": 332160000000,
+          "equity": 62158000000,
+          "debt": 107600000000,
+          "operating_cash_flow": null
+        },
+        "2023-07-01": {
+          "revenue": 81797000000,
+          "net_income": 19881000000,
+          "assets": 335038000000,
+          "equity": 60274000000,
+          "debt": 105300000000,
+          "operating_cash_flow": null
+        },
+        "2023-09-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 352583000000,
+          "equity": 62146000000,
+          "debt": 105103000000,
+          "operating_cash_flow": null
+        },
+        "2023-12-30": {
+          "revenue": 119575000000,
+          "net_income": 33916000000,
+          "assets": 353514000000,
+          "equity": 74100000000,
+          "debt": 106000000000,
+          "operating_cash_flow": 39895000000
+        }
+      },
+      "yearly": {
+        "revenue": 296208000000,
+        "net_income": 77957000000,
+        "assets": 353514000000,
+        "equity": 74100000000,
+        "debt": 106000000000,
+        "operating_cash_flow": 39895000000,
+        "stock_price": {
+          "max_price": 196.2565460205078,
+          "min_price": 123.16194152832031,
+          "mean_price": 170.51081539916993,
+          "median_price": 173.60462951660156
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-30": {
+          "revenue": 90753000000,
+          "net_income": 23636000000,
+          "assets": 337411000000,
+          "equity": 74194000000,
+          "debt": 102600000000,
+          "operating_cash_flow": null
+        },
+        "2024-06-29": {
+          "revenue": 85777000000,
+          "net_income": 21448000000,
+          "assets": 331612000000,
+          "equity": 66708000000,
+          "debt": 98300000000,
+          "operating_cash_flow": null
+        },
+        "2024-09-28": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 364980000000,
+          "equity": 56950000000,
+          "debt": 96662000000,
+          "operating_cash_flow": null
+        },
+        "2024-12-28": {
+          "revenue": 124300000000,
+          "net_income": 36330000000,
+          "assets": 344085000000,
+          "equity": 66758000000,
+          "debt": 94800000000,
+          "operating_cash_flow": 29935000000
+        }
+      },
+      "yearly": {
+        "revenue": 300830000000,
+        "net_income": 81414000000,
+        "assets": 344085000000,
+        "equity": 66758000000,
+        "debt": 94800000000,
+        "operating_cash_flow": 29935000000,
+        "stock_price": {
+          "max_price": 257.853759765625,
+          "min_price": 163.66490173339844,
+          "mean_price": 205.83911138867575,
+          "median_price": 212.81952667236328
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-29": {
+          "revenue": 95359000000,
+          "net_income": 24780000000,
+          "assets": 331233000000,
+          "equity": 66796000000,
+          "debt": 92200000000,
+          "operating_cash_flow": null
+        },
+        "2025-06-28": {
+          "revenue": 94036000000,
+          "net_income": 23434000000,
+          "assets": 331495000000,
+          "equity": 65830000000,
+          "debt": 91800000000,
+          "operating_cash_flow": null
+        },
+        "2025-09-27": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 359241000000,
+          "equity": 73733000000,
+          "debt": 90678000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 189395000000,
+        "net_income": 48214000000,
+        "assets": 359241000000,
+        "equity": 73733000000,
+        "debt": 90678000000,
+        "operating_cash_flow": null,
+        "stock_price": {
+          "max_price": 277.54998779296875,
+          "min_price": 171.83242797851562,
+          "mean_price": 227.2569996165809,
+          "median_price": 226.8741912841797
+        }
+      }
+    }
+  },
+  "MSFT": {
+    "cik": "0000789019",
+    "name": "MICROSOFT CORP",
+    "2012": {
+      "quarterly": {
+        "2012-03-31": {
+          "revenue": 17407000000,
+          "net_income": 5108000000,
+          "assets": 118010000000,
+          "equity": 68659000000,
+          "debt": 11938000000,
+          "operating_cash_flow": 9594000000
+        },
+        "2012-06-30": {
+          "revenue": 18059000000,
+          "net_income": -492000000,
+          "assets": 121271000000,
+          "equity": 66363000000,
+          "debt": 11900000000,
+          "operating_cash_flow": null
+        },
+        "2012-09-30": {
+          "revenue": 16008000000,
+          "net_income": 4466000000,
+          "assets": 121876000000,
+          "equity": 68836000000,
+          "debt": 12000000000,
+          "operating_cash_flow": 8484000000
+        },
+        "2012-12-31": {
+          "revenue": 21456000000,
+          "net_income": 6377000000,
+          "assets": 128683000000,
+          "equity": 72576000000,
+          "debt": 14200000000,
+          "operating_cash_flow": 4780000000
+        }
+      },
+      "yearly": {
+        "revenue": 72930000000,
+        "net_income": 15459000000,
+        "assets": 128683000000,
+        "equity": 72576000000,
+        "debt": 14200000000,
+        "operating_cash_flow": 22858000000,
+        "stock_price": {
+          "max_price": 25.89647102355957,
+          "min_price": 20.965435028076172,
+          "mean_price": 23.667899551391603,
+          "median_price": 23.778916358947754
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-03-31": {
+          "revenue": 20489000000,
+          "net_income": 6055000000,
+          "assets": 134105000000,
+          "equity": 76688000000,
+          "debt": 14200000000,
+          "operating_cash_flow": 9666000000
+        },
+        "2013-06-30": {
+          "revenue": 19896000000,
+          "net_income": 4965000000,
+          "assets": 142431000000,
+          "equity": 78944000000,
+          "debt": 15600000000,
+          "operating_cash_flow": null
+        },
+        "2013-09-30": {
+          "revenue": 18529000000,
+          "net_income": 5244000000,
+          "assets": 142348000000,
+          "equity": 81641000000,
+          "debt": 14600000000,
+          "operating_cash_flow": 8205000000
+        },
+        "2013-12-31": {
+          "revenue": 24519000000,
+          "net_income": 6558000000,
+          "assets": 153543000000,
+          "equity": 85100000000,
+          "debt": 22700000000,
+          "operating_cash_flow": 4413000000
+        }
+      },
+      "yearly": {
+        "revenue": 83433000000,
+        "net_income": 22822000000,
+        "assets": 153543000000,
+        "equity": 85100000000,
+        "debt": 22700000000,
+        "operating_cash_flow": 22284000000,
+        "stock_price": {
+          "max_price": 32.30796813964844,
+          "min_price": 21.308706283569336,
+          "mean_price": 26.591040437183683,
+          "median_price": 27.004751205444336
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-03-31": {
+          "revenue": 20403000000,
+          "net_income": 5660000000,
+          "assets": 156119000000,
+          "equity": 87424000000,
+          "debt": 22700000000,
+          "operating_cash_flow": 10099000000
+        },
+        "2014-06-30": {
+          "revenue": 23382000000,
+          "net_income": 4612000000,
+          "assets": 172384000000,
+          "equity": 89784000000,
+          "debt": 20600000000,
+          "operating_cash_flow": null
+        },
+        "2014-09-30": {
+          "revenue": 23201000000,
+          "net_income": 4540000000,
+          "assets": 169656000000,
+          "equity": 90170000000,
+          "debt": 20200000000,
+          "operating_cash_flow": 8354000000
+        },
+        "2014-12-31": {
+          "revenue": 26470000000,
+          "net_income": 5863000000,
+          "assets": 174848000000,
+          "equity": 91879000000,
+          "debt": 20000000000,
+          "operating_cash_flow": 4340000000
+        }
+      },
+      "yearly": {
+        "revenue": 93456000000,
+        "net_income": 20675000000,
+        "assets": 174848000000,
+        "equity": 91879000000,
+        "debt": 20000000000,
+        "operating_cash_flow": 22793000000,
+        "stock_price": {
+          "max_price": 42.02277374267578,
+          "min_price": 29.02242088317871,
+          "mean_price": 35.75067841817462,
+          "median_price": 35.25897789001465
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-31": {
+          "revenue": 21729000000,
+          "net_income": 4985000000,
+          "assets": 176683000000,
+          "equity": 90132000000,
+          "debt": 30100000000,
+          "operating_cash_flow": 9601000000
+        },
+        "2015-06-30": {
+          "revenue": 22180000000,
+          "net_income": -3195000000,
+          "assets": 174472000000,
+          "equity": 80083000000,
+          "debt": 30300000000,
+          "operating_cash_flow": null
+        },
+        "2015-09-30": {
+          "revenue": 20379000000,
+          "net_income": 4902000000,
+          "assets": 172896000000,
+          "equity": 77445000000,
+          "debt": 28600000000,
+          "operating_cash_flow": 8876000000
+        },
+        "2015-12-31": {
+          "revenue": 23796000000,
+          "net_income": 5018000000,
+          "assets": 180098000000,
+          "equity": 76780000000,
+          "debt": 41400000000,
+          "operating_cash_flow": 5618000000
+        }
+      },
+      "yearly": {
+        "revenue": 88084000000,
+        "net_income": 11710000000,
+        "assets": 180098000000,
+        "equity": 76780000000,
+        "debt": 41400000000,
+        "operating_cash_flow": 24095000000,
+        "stock_price": {
+          "max_price": 49.515785217285156,
+          "min_price": 34.437156677246094,
+          "mean_price": 40.386093306163,
+          "median_price": 39.72038269042969
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-31": {
+          "revenue": 20531000000,
+          "net_income": 3756000000,
+          "assets": 181869000000,
+          "equity": 74806000000,
+          "debt": 40900000000,
+          "operating_cash_flow": 10367000000
+        },
+        "2016-06-30": {
+          "revenue": 20614000000,
+          "net_income": 3122000000,
+          "assets": 193468000000,
+          "equity": 83090000000,
+          "debt": 40600000000,
+          "operating_cash_flow": null
+        },
+        "2016-09-30": {
+          "revenue": 21928000000,
+          "net_income": 5667000000,
+          "assets": 212524000000,
+          "equity": 82462000000,
+          "debt": 60200000000,
+          "operating_cash_flow": 11549000000
+        },
+        "2016-12-31": {
+          "revenue": 25826000000,
+          "net_income": 6267000000,
+          "assets": 224610000000,
+          "equity": 81829000000,
+          "debt": 59900000000,
+          "operating_cash_flow": 6293000000
+        }
+      },
+      "yearly": {
+        "revenue": 88899000000,
+        "net_income": 18812000000,
+        "assets": 224610000000,
+        "equity": 81829000000,
+        "debt": 59900000000,
+        "operating_cash_flow": 28209000000,
+        "stock_price": {
+          "max_price": 57.23493194580078,
+          "min_price": 43.00902557373047,
+          "mean_price": 49.08868465726338,
+          "median_price": 48.57931137084961
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-03-31": {
+          "revenue": 23212000000,
+          "net_income": 5486000000,
+          "assets": 225017000000,
+          "equity": 83491000000,
+          "debt": 76800000000,
+          "operating_cash_flow": 10660000000
+        },
+        "2017-06-30": {
+          "revenue": 25605000000,
+          "net_income": 8069000000,
+          "assets": 250312000000,
+          "equity": 87711000000,
+          "debt": 77100000000,
+          "operating_cash_flow": null
+        },
+        "2017-09-30": {
+          "revenue": 24538000000,
+          "net_income": 6576000000,
+          "assets": 249097000000,
+          "equity": 89647000000,
+          "debt": 77300000000,
+          "operating_cash_flow": 12440000000
+        },
+        "2017-12-31": {
+          "revenue": 28918000000,
+          "net_income": -6302000000,
+          "assets": 256003000000,
+          "equity": 78360000000,
+          "debt": 76800000000,
+          "operating_cash_flow": 7875000000
+        }
+      },
+      "yearly": {
+        "revenue": 102273000000,
+        "net_income": 13829000000,
+        "assets": 256003000000,
+        "equity": 78360000000,
+        "debt": 76800000000,
+        "operating_cash_flow": 30975000000,
+        "stock_price": {
+          "max_price": 79.87813568115234,
+          "min_price": 56.04741668701172,
+          "mean_price": 65.55664706895075,
+          "median_price": 64.76636505126953
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 26819000000,
+          "net_income": 7424000000,
+          "assets": 245497000000,
+          "equity": 79239000000,
+          "debt": 76900000000,
+          "operating_cash_flow": 12151000000
+        },
+        "2018-06-30": {
+          "revenue": 30085000000,
+          "net_income": 8873000000,
+          "assets": 258848000000,
+          "equity": 82718000000,
+          "debt": 76200000000,
+          "operating_cash_flow": null
+        },
+        "2018-09-30": {
+          "revenue": 29084000000,
+          "net_income": 8824000000,
+          "assets": 257619000000,
+          "equity": 85967000000,
+          "debt": 76200000000,
+          "operating_cash_flow": 13657000000
+        },
+        "2018-12-31": {
+          "revenue": 32471000000,
+          "net_income": 8420000000,
+          "assets": 258859000000,
+          "equity": 92128000000,
+          "debt": 73200000000,
+          "operating_cash_flow": 8900000000
+        }
+      },
+      "yearly": {
+        "revenue": 118459000000,
+        "net_income": 33541000000,
+        "assets": 258859000000,
+        "equity": 92128000000,
+        "debt": 73200000000,
+        "operating_cash_flow": 34708000000,
+        "stock_price": {
+          "max_price": 107.70482635498047,
+          "min_price": 78.18583679199219,
+          "mean_price": 93.7798911470816,
+          "median_price": 94.02082061767578
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-31": {
+          "revenue": 30571000000,
+          "net_income": 8809000000,
+          "assets": 263281000000,
+          "equity": 94864000000,
+          "debt": 73100000000,
+          "operating_cash_flow": 13520000000
+        },
+        "2019-06-30": {
+          "revenue": 33717000000,
+          "net_income": 13187000000,
+          "assets": 286556000000,
+          "equity": 102330000000,
+          "debt": 72178000000,
+          "operating_cash_flow": null
+        },
+        "2019-09-30": {
+          "revenue": 33055000000,
+          "net_income": 10678000000,
+          "assets": 278955000000,
+          "equity": 106061000000,
+          "debt": 69495000000,
+          "operating_cash_flow": 13818000000
+        },
+        "2019-12-31": {
+          "revenue": 36906000000,
+          "net_income": 11649000000,
+          "assets": 282794000000,
+          "equity": 110109000000,
+          "debt": 69608000000,
+          "operating_cash_flow": 10680000000
+        }
+      },
+      "yearly": {
+        "revenue": 134249000000,
+        "net_income": 44323000000,
+        "assets": 282794000000,
+        "equity": 110109000000,
+        "debt": 69608000000,
+        "operating_cash_flow": 38018000000,
+        "stock_price": {
+          "max_price": 150.9295196533203,
+          "min_price": 91.13201904296875,
+          "mean_price": 122.99477949596587,
+          "median_price": 127.52880477905273
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-31": {
+          "revenue": 35021000000,
+          "net_income": 10752000000,
+          "assets": 285449000000,
+          "equity": 114501000000,
+          "debt": 66610000000,
+          "operating_cash_flow": 17504000000
+        },
+        "2020-06-30": {
+          "revenue": 38033000000,
+          "net_income": 11202000000,
+          "assets": 301311000000,
+          "equity": 118304000000,
+          "debt": 63327000000,
+          "operating_cash_flow": null
+        },
+        "2020-09-30": {
+          "revenue": 37154000000,
+          "net_income": 13893000000,
+          "assets": 301001000000,
+          "equity": 123392000000,
+          "debt": 63552000000,
+          "operating_cash_flow": 19335000000
+        },
+        "2020-12-31": {
+          "revenue": 43076000000,
+          "net_income": 15463000000,
+          "assets": 304137000000,
+          "equity": 130236000000,
+          "debt": 60523000000,
+          "operating_cash_flow": 12516000000
+        }
+      },
+      "yearly": {
+        "revenue": 153284000000,
+        "net_income": 51310000000,
+        "assets": 304137000000,
+        "equity": 130236000000,
+        "debt": 60523000000,
+        "operating_cash_flow": 49355000000,
+        "stock_price": {
+          "max_price": 221.69700622558594,
+          "min_price": 128.92994689941406,
+          "mean_price": 184.3101278915707,
+          "median_price": 192.76876831054688
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-03-31": {
+          "revenue": 41706000000,
+          "net_income": 15457000000,
+          "assets": 308879000000,
+          "equity": 134505000000,
+          "debt": 58058000000,
+          "operating_cash_flow": 22179000000
+        },
+        "2021-06-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 333779000000,
+          "equity": 141988000000,
+          "debt": 58146000000,
+          "operating_cash_flow": null
+        },
+        "2021-09-30": {
+          "revenue": 45317000000,
+          "net_income": 20505000000,
+          "assets": 335418000000,
+          "equity": 151978000000,
+          "debt": 53288000000,
+          "operating_cash_flow": 24540000000
+        },
+        "2021-12-31": {
+          "revenue": 51728000000,
+          "net_income": 18765000000,
+          "assets": 340389000000,
+          "equity": 160010000000,
+          "debt": 53258000000,
+          "operating_cash_flow": 14480000000
+        }
+      },
+      "yearly": {
+        "revenue": 138751000000,
+        "net_income": 54727000000,
+        "assets": 340389000000,
+        "equity": 160010000000,
+        "debt": 53258000000,
+        "operating_cash_flow": 61199000000,
+        "stock_price": {
+          "max_price": 331.9873352050781,
+          "min_price": 203.66236877441406,
+          "mean_price": 266.03249050322034,
+          "median_price": 267.1788635253906
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-31": {
+          "revenue": 49360000000,
+          "net_income": 16728000000,
+          "assets": 344607000000,
+          "equity": 162924000000,
+          "debt": 49926000000,
+          "operating_cash_flow": 25386000000
+        },
+        "2022-06-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 364840000000,
+          "equity": 166542000000,
+          "debt": 49781000000,
+          "operating_cash_flow": null
+        },
+        "2022-09-30": {
+          "revenue": 50122000000,
+          "net_income": 17556000000,
+          "assets": 359784000000,
+          "equity": 173566000000,
+          "debt": 48622000000,
+          "operating_cash_flow": 23198000000
+        },
+        "2022-12-31": {
+          "revenue": 52747000000,
+          "net_income": 16425000000,
+          "assets": 364552000000,
+          "equity": 183136000000,
+          "debt": 48116000000,
+          "operating_cash_flow": 11173000000
+        }
+      },
+      "yearly": {
+        "revenue": 152229000000,
+        "net_income": 50709000000,
+        "assets": 364552000000,
+        "equity": 183136000000,
+        "debt": 48116000000,
+        "operating_cash_flow": 59757000000,
+        "stock_price": {
+          "max_price": 323.8984069824219,
+          "min_price": 208.65908813476562,
+          "mean_price": 261.29511908421006,
+          "median_price": 258.4127197265625
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-03-31": {
+          "revenue": 52857000000,
+          "net_income": 18299000000,
+          "assets": 380088000000,
+          "equity": 194683000000,
+          "debt": 48210000000,
+          "operating_cash_flow": 24441000000
+        },
+        "2023-06-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 411976000000,
+          "equity": 206223000000,
+          "debt": 47237000000,
+          "operating_cash_flow": null
+        },
+        "2023-09-30": {
+          "revenue": 56517000000,
+          "net_income": 22291000000,
+          "assets": 445785000000,
+          "equity": 220714000000,
+          "debt": 45694000000,
+          "operating_cash_flow": 30583000000
+        },
+        "2023-12-31": {
+          "revenue": 62020000000,
+          "net_income": 21870000000,
+          "assets": 470558000000,
+          "equity": 238268000000,
+          "debt": 47178000000,
+          "operating_cash_flow": 18853000000
+        }
+      },
+      "yearly": {
+        "revenue": 171394000000,
+        "net_income": 62460000000,
+        "assets": 470558000000,
+        "equity": 238268000000,
+        "debt": 47178000000,
+        "operating_cash_flow": 73877000000,
+        "stock_price": {
+          "max_price": 377.07781982421875,
+          "min_price": 217.11892700195312,
+          "mean_price": 308.1390130615234,
+          "median_price": 318.72767639160156
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-31": {
+          "revenue": 61858000000,
+          "net_income": 21939000000,
+          "assets": 484275000000,
+          "equity": 253152000000,
+          "debt": 44907000000,
+          "operating_cash_flow": 31917000000
+        },
+        "2024-06-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 512163000000,
+          "equity": 268477000000,
+          "debt": 44937000000,
+          "operating_cash_flow": null
+        },
+        "2024-09-30": {
+          "revenue": 65585000000,
+          "net_income": 24667000000,
+          "assets": 523013000000,
+          "equity": 287723000000,
+          "debt": 45117000000,
+          "operating_cash_flow": 34180000000
+        },
+        "2024-12-31": {
+          "revenue": 69632000000,
+          "net_income": 24108000000,
+          "assets": 533898000000,
+          "equity": 302695000000,
+          "debt": 44970000000,
+          "operating_cash_flow": 22291000000
+        }
+      },
+      "yearly": {
+        "revenue": 197075000000,
+        "net_income": 70714000000,
+        "assets": 533898000000,
+        "equity": 302695000000,
+        "debt": 44970000000,
+        "operating_cash_flow": 88388000000,
+        "stock_price": {
+          "max_price": 462.3755798339844,
+          "min_price": 362.347412109375,
+          "mean_price": 415.67904602535185,
+          "median_price": 414.4737854003906
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-31": {
+          "revenue": 70066000000,
+          "net_income": 25824000000,
+          "assets": 562624000000,
+          "equity": 321891000000,
+          "debt": 42881000000,
+          "operating_cash_flow": 37044000000
+        },
+        "2025-06-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 619003000000,
+          "equity": 343479000000,
+          "debt": 43151000000,
+          "operating_cash_flow": null
+        },
+        "2025-09-30": {
+          "revenue": 77673000000,
+          "net_income": 27747000000,
+          "assets": 636351000000,
+          "equity": 363076000000,
+          "debt": 43208000000,
+          "operating_cash_flow": 45057000000
+        }
+      },
+      "yearly": {
+        "revenue": 147739000000,
+        "net_income": 53571000000,
+        "assets": 636351000000,
+        "equity": 363076000000,
+        "debt": 43208000000,
+        "operating_cash_flow": 82101000000,
+        "stock_price": {
+          "max_price": 541.057373046875,
+          "min_price": 352.6693420410156,
+          "mean_price": 460.66222929429375,
+          "median_price": 475.7261047363281
+        }
+      }
+    }
+  },
+  "GOOGL": {
+    "cik": "0001652044",
+    "name": "Alphabet Inc.",
+    "2012": {
+      "quarterly": {
+        "2012-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": null,
+          "equity": 71570000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": null,
+        "net_income": null,
+        "assets": null,
+        "equity": 71570000000,
+        "debt": null,
+        "operating_cash_flow": null,
+        "stock_price": {
+          "max_price": 19.08881378173828,
+          "min_price": 13.894408226013184,
+          "mean_price": 15.9763083152771,
+          "median_price": 15.72723913192749
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": null,
+          "equity": 86977000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": null,
+        "net_income": null,
+        "assets": null,
+        "equity": 86977000000,
+        "debt": null,
+        "operating_cash_flow": null,
+        "stock_price": {
+          "max_price": 27.853687286376953,
+          "min_price": 17.468854904174805,
+          "mean_price": 21.976621953267898,
+          "median_price": 21.777974128723145
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-09-30": {
+          "revenue": 16523000000,
+          "net_income": 2739000000,
+          "assets": null,
+          "equity": null,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2014-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 129187000000,
+          "equity": 103860000000,
+          "debt": 2992000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 16523000000,
+        "net_income": 2739000000,
+        "assets": 129187000000,
+        "equity": 103860000000,
+        "debt": 2992000000,
+        "operating_cash_flow": null,
+        "stock_price": {
+          "max_price": 30.325624465942383,
+          "min_price": 24.73738670349121,
+          "mean_price": 28.211540774693564,
+          "median_price": 28.315951347351074
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-31": {
+          "revenue": 17258000000,
+          "net_income": 3515000000,
+          "assets": null,
+          "equity": null,
+          "debt": null,
+          "operating_cash_flow": 6722000000
+        },
+        "2015-06-30": {
+          "revenue": 17727000000,
+          "net_income": 3931000000,
+          "assets": null,
+          "equity": null,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2015-09-30": {
+          "revenue": 18675000000,
+          "net_income": 3979000000,
+          "assets": 144281000000,
+          "equity": 116241000000,
+          "debt": 1994000000,
+          "operating_cash_flow": null
+        },
+        "2015-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 147461000000,
+          "equity": 120331000000,
+          "debt": 1995000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 53660000000,
+        "net_income": 11425000000,
+        "assets": 147461000000,
+        "equity": 120331000000,
+        "debt": 1995000000,
+        "operating_cash_flow": 6722000000,
+        "stock_price": {
+          "max_price": 39.42607498168945,
+          "min_price": 24.682764053344727,
+          "mean_price": 30.787069494762118,
+          "median_price": 28.497450828552246
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-31": {
+          "revenue": 20257000000,
+          "net_income": 4207000000,
+          "assets": 149747000000,
+          "equity": 123569000000,
+          "debt": 1987000000,
+          "operating_cash_flow": 7658000000
+        },
+        "2016-06-30": {
+          "revenue": 21500000000,
+          "net_income": 4877000000,
+          "assets": 154292000000,
+          "equity": 127879000000,
+          "debt": 1984000000,
+          "operating_cash_flow": null
+        },
+        "2016-09-30": {
+          "revenue": 22451000000,
+          "net_income": 5061000000,
+          "assets": 159948000000,
+          "equity": 134103000000,
+          "debt": 3938000000,
+          "operating_cash_flow": null
+        },
+        "2016-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 167497000000,
+          "equity": 139036000000,
+          "debt": 3935000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 64208000000,
+        "net_income": 14145000000,
+        "assets": 167497000000,
+        "equity": 139036000000,
+        "debt": 3935000000,
+        "operating_cash_flow": 7658000000,
+        "stock_price": {
+          "max_price": 41.50076675415039,
+          "min_price": 33.82371520996094,
+          "mean_price": 37.899265879676456,
+          "median_price": 37.82660675048828
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-03-31": {
+          "revenue": 24750000000,
+          "net_income": 5426000000,
+          "assets": 172756000000,
+          "equity": 144949000000,
+          "debt": 3937000000,
+          "operating_cash_flow": 9548000000
+        },
+        "2017-06-30": {
+          "revenue": 26010000000,
+          "net_income": 3524000000,
+          "assets": 178621000000,
+          "equity": 148286000000,
+          "debt": 3939000000,
+          "operating_cash_flow": null
+        },
+        "2017-09-30": {
+          "revenue": 27772000000,
+          "net_income": 6732000000,
+          "assets": 189536000000,
+          "equity": 157100000000,
+          "debt": 3941000000,
+          "operating_cash_flow": null
+        },
+        "2017-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 197295000000,
+          "equity": 152502000000,
+          "debt": 3943000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 78532000000,
+        "net_income": 15682000000,
+        "assets": 197295000000,
+        "equity": 152502000000,
+        "debt": 3943000000,
+        "operating_cash_flow": 9548000000,
+        "stock_price": {
+          "max_price": 53.882869720458984,
+          "min_price": 40.111846923828125,
+          "mean_price": 46.66678807839929,
+          "median_price": 47.05297088623047
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 31146000000,
+          "net_income": 9401000000,
+          "assets": 206935000000,
+          "equity": 160825000000,
+          "debt": 3944000000,
+          "operating_cash_flow": 11642000000
+        },
+        "2018-06-30": {
+          "revenue": 32657000000,
+          "net_income": 3195000000,
+          "assets": 211610000000,
+          "equity": 162000000000,
+          "debt": 3947000000,
+          "operating_cash_flow": null
+        },
+        "2018-09-30": {
+          "revenue": 33740000000,
+          "net_income": 9192000000,
+          "assets": 221538000000,
+          "equity": 169840000000,
+          "debt": 3948000000,
+          "operating_cash_flow": null
+        },
+        "2018-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 232792000000,
+          "equity": 177628000000,
+          "debt": 3950000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 97543000000,
+        "net_income": 21788000000,
+        "assets": 232792000000,
+        "equity": 177628000000,
+        "debt": 3950000000,
+        "operating_cash_flow": 11642000000,
+        "stock_price": {
+          "max_price": 63.83472442626953,
+          "min_price": 48.89625930786133,
+          "mean_price": 55.717887437676055,
+          "median_price": 55.22163391113281
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-31": {
+          "revenue": 36339000000,
+          "net_income": 6657000000,
+          "assets": 245349000000,
+          "equity": 183472000000,
+          "debt": 3952000000,
+          "operating_cash_flow": 12000000000
+        },
+        "2019-06-30": {
+          "revenue": 38944000000,
+          "net_income": 9947000000,
+          "assets": 257101000000,
+          "equity": 192192000000,
+          "debt": 3954000000,
+          "operating_cash_flow": null
+        },
+        "2019-09-30": {
+          "revenue": 40499000000,
+          "net_income": 7068000000,
+          "assets": 263044000000,
+          "equity": 194969000000,
+          "debt": 3956000000,
+          "operating_cash_flow": null
+        },
+        "2019-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 275909000000,
+          "equity": 201442000000,
+          "debt": 4554000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 115782000000,
+        "net_income": 23672000000,
+        "assets": 275909000000,
+        "equity": 201442000000,
+        "debt": 4554000000,
+        "operating_cash_flow": 12000000000,
+        "stock_price": {
+          "max_price": 67.65685272216797,
+          "min_price": 50.922279357910156,
+          "mean_price": 59.15286421397376,
+          "median_price": 59.06710624694824
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-31": {
+          "revenue": 41159000000,
+          "net_income": 6836000000,
+          "assets": 273403000000,
+          "equity": 203659000000,
+          "debt": 3960000000,
+          "operating_cash_flow": 11451000000
+        },
+        "2020-06-30": {
+          "revenue": 38297000000,
+          "net_income": 6959000000,
+          "assets": 278492000000,
+          "equity": 207322000000,
+          "debt": 2963000000,
+          "operating_cash_flow": null
+        },
+        "2020-09-30": {
+          "revenue": 46173000000,
+          "net_income": 11247000000,
+          "assets": 299243000000,
+          "equity": 212920000000,
+          "debt": 13902000000,
+          "operating_cash_flow": null
+        },
+        "2020-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 319616000000,
+          "equity": 222544000000,
+          "debt": 13932000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 125629000000,
+        "net_income": 25042000000,
+        "assets": 319616000000,
+        "equity": 222544000000,
+        "debt": 13932000000,
+        "operating_cash_flow": 11451000000,
+        "stock_price": {
+          "max_price": 90.62345886230469,
+          "min_price": 52.3454704284668,
+          "mean_price": 73.44311199263622,
+          "median_price": 73.44890594482422
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-03-31": {
+          "revenue": 55314000000,
+          "net_income": 17930000000,
+          "assets": 327095000000,
+          "equity": 230013000000,
+          "debt": 13887000000,
+          "operating_cash_flow": 19289000000
+        },
+        "2021-06-30": {
+          "revenue": 61880000000,
+          "net_income": 18525000000,
+          "assets": 335387000000,
+          "equity": 237565000000,
+          "debt": 14328000000,
+          "operating_cash_flow": null
+        },
+        "2021-09-30": {
+          "revenue": 65118000000,
+          "net_income": 18936000000,
+          "assets": 347403000000,
+          "equity": 244567000000,
+          "debt": 14288000000,
+          "operating_cash_flow": null
+        },
+        "2021-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 359268000000,
+          "equity": 251635000000,
+          "debt": 14817000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 182312000000,
+        "net_income": 55391000000,
+        "assets": 359268000000,
+        "equity": 251635000000,
+        "debt": 14817000000,
+        "operating_cash_flow": 19289000000,
+        "stock_price": {
+          "max_price": 148.8121337890625,
+          "min_price": 85.55392456054688,
+          "mean_price": 123.37396573263501,
+          "median_price": 123.95606231689453
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-31": {
+          "revenue": 68011000000,
+          "net_income": 16436000000,
+          "assets": 357096000000,
+          "equity": 254004000000,
+          "debt": 14791000000,
+          "operating_cash_flow": 25106000000
+        },
+        "2022-06-30": {
+          "revenue": 69685000000,
+          "net_income": 16002000000,
+          "assets": 355185000000,
+          "equity": 255419000000,
+          "debt": 14734000000,
+          "operating_cash_flow": null
+        },
+        "2022-09-30": {
+          "revenue": 69092000000,
+          "net_income": 13910000000,
+          "assets": 358255000000,
+          "equity": 253626000000,
+          "debt": 14653000000,
+          "operating_cash_flow": null
+        },
+        "2022-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 365264000000,
+          "equity": 256144000000,
+          "debt": 14701000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 206788000000,
+        "net_income": 46348000000,
+        "assets": 365264000000,
+        "equity": 256144000000,
+        "debt": 14701000000,
+        "operating_cash_flow": 25106000000,
+        "stock_price": {
+          "max_price": 146.98623657226562,
+          "min_price": 82.8585205078125,
+          "mean_price": 113.97427872737565,
+          "median_price": 113.11186218261719
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-03-31": {
+          "revenue": 69787000000,
+          "net_income": 15051000000,
+          "assets": 369491000000,
+          "equity": 260894000000,
+          "debt": 13697000000,
+          "operating_cash_flow": 23509000000
+        },
+        "2023-06-30": {
+          "revenue": 74604000000,
+          "net_income": 18368000000,
+          "assets": 383044000000,
+          "equity": 267141000000,
+          "debt": 13705000000,
+          "operating_cash_flow": null
+        },
+        "2023-09-30": {
+          "revenue": 76693000000,
+          "net_income": 19689000000,
+          "assets": 396711000000,
+          "equity": 273202000000,
+          "debt": 13781000000,
+          "operating_cash_flow": null
+        },
+        "2023-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 402392000000,
+          "equity": 283379000000,
+          "debt": 13000000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 221084000000,
+        "net_income": 53108000000,
+        "assets": 402392000000,
+        "equity": 283379000000,
+        "debt": 13000000000,
+        "operating_cash_flow": 23509000000,
+        "stock_price": {
+          "max_price": 140.5506134033203,
+          "min_price": 85.60953521728516,
+          "mean_price": 117.9809923400879,
+          "median_price": 122.47031784057617
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-31": {
+          "revenue": 80539000000,
+          "net_income": 23662000000,
+          "assets": 407350000000,
+          "equity": 292844000000,
+          "debt": 13228000000,
+          "operating_cash_flow": 28848000000
+        },
+        "2024-06-30": {
+          "revenue": 84742000000,
+          "net_income": 23619000000,
+          "assets": 414770000000,
+          "equity": 300753000000,
+          "debt": 13238000000,
+          "operating_cash_flow": null
+        },
+        "2024-09-30": {
+          "revenue": 88268000000,
+          "net_income": 26301000000,
+          "assets": 430266000000,
+          "equity": 314119000000,
+          "debt": 12297000000,
+          "operating_cash_flow": null
+        },
+        "2024-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 450256000000,
+          "equity": 325084000000,
+          "debt": 10883000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 253549000000,
+        "net_income": 73582000000,
+        "assets": 450256000000,
+        "equity": 325084000000,
+        "debt": 10883000000,
+        "operating_cash_flow": 28848000000,
+        "stock_price": {
+          "max_price": 196.02093505859375,
+          "min_price": 130.49990844726562,
+          "mean_price": 162.88239136953203,
+          "median_price": 163.88812255859375
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-31": {
+          "revenue": 90234000000,
+          "net_income": 34540000000,
+          "assets": 475374000000,
+          "equity": 345267000000,
+          "debt": 10886000000,
+          "operating_cash_flow": 36150000000
+        },
+        "2025-06-30": {
+          "revenue": 96428000000,
+          "net_income": 28196000000,
+          "assets": 502053000000,
+          "equity": 362916000000,
+          "debt": 23607000000,
+          "operating_cash_flow": null
+        },
+        "2025-09-30": {
+          "revenue": 102346000000,
+          "net_income": 34979000000,
+          "assets": 536469000000,
+          "equity": 386867000000,
+          "debt": 21607000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 289008000000,
+        "net_income": 97715000000,
+        "assets": 536469000000,
+        "equity": 386867000000,
+        "debt": 21607000000,
+        "operating_cash_flow": 36150000000,
+        "stock_price": {
+          "max_price": 323.44000244140625,
+          "min_price": 144.39588928222656,
+          "mean_price": 200.3015888230916,
+          "median_price": 189.04368591308594
+        }
+      }
+    }
+  },
+  "AMZN": {
+    "cik": "0001018724",
+    "name": "AMAZON COM INC",
+    "2012": {
+      "quarterly": {
+        "2012-03-31": {
+          "revenue": 13185000000,
+          "net_income": 130000000,
+          "assets": 20339000000,
+          "equity": 7271000000,
+          "debt": null,
+          "operating_cash_flow": -2438000000
+        },
+        "2012-06-30": {
+          "revenue": 12834000000,
+          "net_income": 7000000,
+          "assets": 21022000000,
+          "equity": 7505000000,
+          "debt": null,
+          "operating_cash_flow": 594000000
+        },
+        "2012-09-30": {
+          "revenue": 13806000000,
+          "net_income": -274000000,
+          "assets": 22834000000,
+          "equity": 7553000000,
+          "debt": null,
+          "operating_cash_flow": 943000000
+        },
+        "2012-12-31": {
+          "revenue": 21268000000,
+          "net_income": 97000000,
+          "assets": 32555000000,
+          "equity": 8192000000,
+          "debt": 3691000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 61093000000,
+        "net_income": -40000000,
+        "assets": 32555000000,
+        "equity": 8192000000,
+        "debt": 3691000000,
+        "operating_cash_flow": -901000000,
+        "stock_price": {
+          "max_price": 13.083999633789062,
+          "min_price": 8.796500205993652,
+          "mean_price": 11.01518200302124,
+          "median_price": 11.202250003814697
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-03-31": {
+          "revenue": 16070000000,
+          "net_income": 82000000,
+          "assets": 28377000000,
+          "equity": 8432000000,
+          "debt": 3718000000,
+          "operating_cash_flow": -2372000000
+        },
+        "2013-06-30": {
+          "revenue": 15704000000,
+          "net_income": -7000000,
+          "assets": 29623000000,
+          "equity": 8733000000,
+          "debt": 3758000000,
+          "operating_cash_flow": 880000000
+        },
+        "2013-09-30": {
+          "revenue": 17092000000,
+          "net_income": -41000000,
+          "assets": 31861000000,
+          "equity": 9087000000,
+          "debt": 3747000000,
+          "operating_cash_flow": 1388000000
+        },
+        "2013-12-31": {
+          "revenue": 25587000000,
+          "net_income": 239000000,
+          "assets": 40159000000,
+          "equity": 9746000000,
+          "debt": 3967000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 74453000000,
+        "net_income": 273000000,
+        "assets": 40159000000,
+        "equity": 9746000000,
+        "debt": 3967000000,
+        "operating_cash_flow": -104000000,
+        "stock_price": {
+          "max_price": 20.219499588012695,
+          "min_price": 12.411499977111816,
+          "mean_price": 14.901579402741932,
+          "median_price": 14.096499919891357
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-03-31": {
+          "revenue": 19741000000,
+          "net_income": 108000000,
+          "assets": 36364000000,
+          "equity": 10328000000,
+          "debt": 3953000000,
+          "operating_cash_flow": -2502000000
+        },
+        "2014-06-30": {
+          "revenue": 19340000000,
+          "net_income": -126000000,
+          "assets": 37898000000,
+          "equity": 10602000000,
+          "debt": 4000000000,
+          "operating_cash_flow": 862000000
+        },
+        "2014-09-30": {
+          "revenue": 20579000000,
+          "net_income": -437000000,
+          "assets": 40419000000,
+          "equity": 10336000000,
+          "debt": 3983000000,
+          "operating_cash_flow": 1766000000
+        },
+        "2014-12-31": {
+          "revenue": 29328000000,
+          "net_income": 214000000,
+          "assets": 54505000000,
+          "equity": 10741000000,
+          "debt": 9881000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 88988000000,
+        "net_income": -241000000,
+        "assets": 54505000000,
+        "equity": 10741000000,
+        "debt": 9881000000,
+        "operating_cash_flow": 126000000,
+        "stock_price": {
+          "max_price": 20.352500915527344,
+          "min_price": 14.352999687194824,
+          "mean_price": 16.627551608615452,
+          "median_price": 16.321249961853027
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-31": {
+          "revenue": 22717000000,
+          "net_income": -57000000,
+          "assets": 50075000000,
+          "equity": 10873000000,
+          "debt": 9729000000,
+          "operating_cash_flow": -1499000000
+        },
+        "2015-06-30": {
+          "revenue": 23185000000,
+          "net_income": 92000000,
+          "assets": 52440000000,
+          "equity": 11768000000,
+          "debt": 9602000000,
+          "operating_cash_flow": 1997000000
+        },
+        "2015-09-30": {
+          "revenue": 25358000000,
+          "net_income": 79000000,
+          "assets": 56230000000,
+          "equity": 12430000000,
+          "debt": 9451000000,
+          "operating_cash_flow": 2610000000
+        },
+        "2015-12-31": {
+          "revenue": 35747000000,
+          "net_income": 482000000,
+          "assets": 64747000000,
+          "equity": 13384000000,
+          "debt": 8562000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 107007000000,
+        "net_income": 596000000,
+        "assets": 64747000000,
+        "equity": 13384000000,
+        "debt": 8562000000,
+        "operating_cash_flow": 3108000000,
+        "stock_price": {
+          "max_price": 34.69850158691406,
+          "min_price": 14.34749984741211,
+          "mean_price": 23.90691463909452,
+          "median_price": 21.98724937438965
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-31": {
+          "revenue": 29128000000,
+          "net_income": 513000000,
+          "assets": 61128000000,
+          "equity": 14756000000,
+          "debt": 8405000000,
+          "operating_cash_flow": -1953000000
+        },
+        "2016-06-30": {
+          "revenue": 30404000000,
+          "net_income": 857000000,
+          "assets": 65076000000,
+          "equity": 16538000000,
+          "debt": 8347000000,
+          "operating_cash_flow": 3578000000
+        },
+        "2016-09-30": {
+          "revenue": 32714000000,
+          "net_income": 252000000,
+          "assets": 70897000000,
+          "equity": 17782000000,
+          "debt": 8345000000,
+          "operating_cash_flow": 4659000000
+        },
+        "2016-12-31": {
+          "revenue": 43741000000,
+          "net_income": 749000000,
+          "assets": 83402000000,
+          "equity": 19285000000,
+          "debt": 8838000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 135987000000,
+        "net_income": 2371000000,
+        "assets": 83402000000,
+        "equity": 19285000000,
+        "debt": 8838000000,
+        "operating_cash_flow": 6284000000,
+        "stock_price": {
+          "max_price": 42.21799850463867,
+          "min_price": 24.103500366210938,
+          "mean_price": 34.97615664345877,
+          "median_price": 36.39374923706055
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-03-31": {
+          "revenue": 35714000000,
+          "net_income": 724000000,
+          "assets": 80969000000,
+          "equity": 21674000000,
+          "debt": 8827000000,
+          "operating_cash_flow": -1619000000
+        },
+        "2017-06-30": {
+          "revenue": 37955000000,
+          "net_income": 197000000,
+          "assets": 87781000000,
+          "equity": 23214000000,
+          "debt": 8832000000,
+          "operating_cash_flow": 3850000000
+        },
+        "2017-09-30": {
+          "revenue": 43744000000,
+          "net_income": 256000000,
+          "assets": 115267000000,
+          "equity": 24658000000,
+          "debt": 25847000000,
+          "operating_cash_flow": 3777000000
+        },
+        "2017-12-31": {
+          "revenue": 60453000000,
+          "net_income": 1856000000,
+          "assets": 131310000000,
+          "equity": 27709000000,
+          "debt": 24942000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 177866000000,
+        "net_income": 3033000000,
+        "assets": 131310000000,
+        "equity": 27709000000,
+        "debt": 24942000000,
+        "operating_cash_flow": 6008000000,
+        "stock_price": {
+          "max_price": 59.791500091552734,
+          "min_price": 37.68349838256836,
+          "mean_price": 48.40835056076962,
+          "median_price": 48.39950180053711
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 51042000000,
+          "net_income": 1629000000,
+          "assets": 126362000000,
+          "equity": 31463000000,
+          "debt": 24792000000,
+          "operating_cash_flow": -1791000000
+        },
+        "2018-06-30": {
+          "revenue": 52886000000,
+          "net_income": 2534000000,
+          "assets": 134100000000,
+          "equity": 34995000000,
+          "debt": 24770000000,
+          "operating_cash_flow": 7449000000
+        },
+        "2018-09-30": {
+          "revenue": 56576000000,
+          "net_income": 2883000000,
+          "assets": 143695000000,
+          "equity": 39125000000,
+          "debt": 24829000000,
+          "operating_cash_flow": 8588000000
+        },
+        "2018-12-31": {
+          "revenue": 72383000000,
+          "net_income": 3027000000,
+          "assets": 162648000000,
+          "equity": 43549000000,
+          "debt": 24965000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 232887000000,
+        "net_income": 10073000000,
+        "assets": 162648000000,
+        "equity": 43549000000,
+        "debt": 24965000000,
+        "operating_cash_flow": 14246000000,
+        "stock_price": {
+          "max_price": 101.97550201416016,
+          "min_price": 59.45050048828125,
+          "mean_price": 82.08630852870257,
+          "median_price": 81.24449920654297
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-31": {
+          "revenue": 59700000000,
+          "net_income": 3561000000,
+          "assets": 178102000000,
+          "equity": 48410000000,
+          "debt": 25031000000,
+          "operating_cash_flow": 1846000000
+        },
+        "2019-06-30": {
+          "revenue": 63404000000,
+          "net_income": 2625000000,
+          "assets": 191351000000,
+          "equity": 53061000000,
+          "debt": 25066000000,
+          "operating_cash_flow": 9118000000
+        },
+        "2019-09-30": {
+          "revenue": 69981000000,
+          "net_income": 2134000000,
+          "assets": 199099000000,
+          "equity": 56508000000,
+          "debt": 25411000000,
+          "operating_cash_flow": 7892000000
+        },
+        "2019-12-31": {
+          "revenue": 87437000000,
+          "net_income": 3268000000,
+          "assets": 225248000000,
+          "equity": 62060000000,
+          "debt": 24820000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 280522000000,
+        "net_income": 11588000000,
+        "assets": 225248000000,
+        "equity": 62060000000,
+        "debt": 24820000000,
+        "operating_cash_flow": 18856000000,
+        "stock_price": {
+          "max_price": 101.04949951171875,
+          "min_price": 75.01399993896484,
+          "mean_price": 89.4594602433462,
+          "median_price": 89.3224983215332
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-31": {
+          "revenue": 75452000000,
+          "net_income": 2535000000,
+          "assets": 221238000000,
+          "equity": 65272000000,
+          "debt": 24849000000,
+          "operating_cash_flow": 3064000000
+        },
+        "2020-06-30": {
+          "revenue": 88912000000,
+          "net_income": 5243000000,
+          "assets": 258314000000,
+          "equity": 73728000000,
+          "debt": 34486000000,
+          "operating_cash_flow": 20606000000
+        },
+        "2020-09-30": {
+          "revenue": 96145000000,
+          "net_income": 6331000000,
+          "assets": 282179000000,
+          "equity": 82775000000,
+          "debt": 33288000000,
+          "operating_cash_flow": 11964000000
+        },
+        "2020-12-31": {
+          "revenue": 125555000000,
+          "net_income": 7222000000,
+          "assets": 321195000000,
+          "equity": 93404000000,
+          "debt": 33174000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 386064000000,
+        "net_income": 21331000000,
+        "assets": 321195000000,
+        "equity": 93404000000,
+        "debt": 33174000000,
+        "operating_cash_flow": 35634000000,
+        "stock_price": {
+          "max_price": 176.57249450683594,
+          "min_price": 83.83049774169922,
+          "mean_price": 134.04275452383894,
+          "median_price": 144.51499938964844
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-03-31": {
+          "revenue": 108518000000,
+          "net_income": 8107000000,
+          "assets": 323077000000,
+          "equity": 103320000000,
+          "debt": 33227000000,
+          "operating_cash_flow": 4213000000
+        },
+        "2021-06-30": {
+          "revenue": 113080000000,
+          "net_income": 7778000000,
+          "assets": 360319000000,
+          "equity": 114803000000,
+          "debt": 51762000000,
+          "operating_cash_flow": 12715000000
+        },
+        "2021-09-30": {
+          "revenue": 110812000000,
+          "net_income": 3156000000,
+          "assets": 382406000000,
+          "equity": 120564000000,
+          "debt": 51376000000,
+          "operating_cash_flow": 7313000000
+        },
+        "2021-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 420549000000,
+          "equity": 138245000000,
+          "debt": 50553000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 332410000000,
+        "net_income": 19041000000,
+        "assets": 420549000000,
+        "equity": 138245000000,
+        "debt": 50553000000,
+        "operating_cash_flow": 24241000000,
+        "stock_price": {
+          "max_price": 186.57049560546875,
+          "min_price": 147.59750366210938,
+          "mean_price": 167.19334932357546,
+          "median_price": 167.0615005493164
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-31": {
+          "revenue": 116444000000,
+          "net_income": -3844000000,
+          "assets": 410767000000,
+          "equity": 134001000000,
+          "debt": 50553000000,
+          "operating_cash_flow": -2790000000
+        },
+        "2022-06-30": {
+          "revenue": 121234000000,
+          "net_income": -2028000000,
+          "assets": 419728000000,
+          "equity": 131402000000,
+          "debt": 63435000000,
+          "operating_cash_flow": 8965000000
+        },
+        "2022-09-30": {
+          "revenue": 127101000000,
+          "net_income": 2872000000,
+          "assets": 428362000000,
+          "equity": 137489000000,
+          "debt": 63541000000,
+          "operating_cash_flow": 11404000000
+        },
+        "2022-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 462675000000,
+          "equity": 146043000000,
+          "debt": 70542000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 364779000000,
+        "net_income": -3000000000,
+        "assets": 462675000000,
+        "equity": 146043000000,
+        "debt": 70542000000,
+        "operating_cash_flow": 17579000000,
+        "stock_price": {
+          "max_price": 170.4044952392578,
+          "min_price": 81.81999969482422,
+          "mean_price": 126.0988188055882,
+          "median_price": 122.7699966430664
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-03-31": {
+          "revenue": 127358000000,
+          "net_income": 3172000000,
+          "assets": 464378000000,
+          "equity": 154526000000,
+          "debt": 69472000000,
+          "operating_cash_flow": 4788000000
+        },
+        "2023-06-30": {
+          "revenue": 134383000000,
+          "net_income": 6750000000,
+          "assets": 477607000000,
+          "equity": 168602000000,
+          "debt": 67472000000,
+          "operating_cash_flow": 16476000000
+        },
+        "2023-09-30": {
+          "revenue": 143083000000,
+          "net_income": 9879000000,
+          "assets": 486883000000,
+          "equity": 182973000000,
+          "debt": 67472000000,
+          "operating_cash_flow": 21217000000
+        },
+        "2023-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 527854000000,
+          "equity": 201875000000,
+          "debt": 67182000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 404824000000,
+        "net_income": 19801000000,
+        "assets": 527854000000,
+        "equity": 201875000000,
+        "debt": 67182000000,
+        "operating_cash_flow": 42481000000,
+        "stock_price": {
+          "max_price": 154.07000732421875,
+          "min_price": 83.12000274658203,
+          "mean_price": 121.3728003540039,
+          "median_price": 126.83000183105469
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-31": {
+          "revenue": 143313000000,
+          "net_income": 10431000000,
+          "assets": 530969000000,
+          "equity": 216661000000,
+          "debt": 66852000000,
+          "operating_cash_flow": 18989000000
+        },
+        "2024-06-30": {
+          "revenue": 147977000000,
+          "net_income": 13485000000,
+          "assets": 554818000000,
+          "equity": 236447000000,
+          "debt": 62683000000,
+          "operating_cash_flow": 25281000000
+        },
+        "2024-09-30": {
+          "revenue": 158877000000,
+          "net_income": 15328000000,
+          "assets": 584626000000,
+          "equity": 259151000000,
+          "debt": 60500000000,
+          "operating_cash_flow": 25971000000
+        },
+        "2024-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 624894000000,
+          "equity": 285970000000,
+          "debt": 58000000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 450167000000,
+        "net_income": 39244000000,
+        "assets": 624894000000,
+        "equity": 285970000000,
+        "debt": 58000000000,
+        "operating_cash_flow": 70241000000,
+        "stock_price": {
+          "max_price": 232.92999267578125,
+          "min_price": 144.57000732421875,
+          "mean_price": 184.62869050767688,
+          "median_price": 183.43000030517578
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-31": {
+          "revenue": 155667000000,
+          "net_income": 17127000000,
+          "assets": 643256000000,
+          "equity": 305867000000,
+          "debt": 58750000000,
+          "operating_cash_flow": 17015000000
+        },
+        "2025-06-30": {
+          "revenue": 167702000000,
+          "net_income": 18164000000,
+          "assets": 682170000000,
+          "equity": 333775000000,
+          "debt": 56082000000,
+          "operating_cash_flow": 32515000000
+        },
+        "2025-09-30": {
+          "revenue": 180169000000,
+          "net_income": 21187000000,
+          "assets": 727921000000,
+          "equity": 369631000000,
+          "debt": 55097000000,
+          "operating_cash_flow": 35525000000
+        }
+      },
+      "yearly": {
+        "revenue": 503538000000,
+        "net_income": 56478000000,
+        "assets": 727921000000,
+        "equity": 369631000000,
+        "debt": 55097000000,
+        "operating_cash_flow": 85055000000,
+        "stock_price": {
+          "max_price": 254.0,
+          "min_price": 167.32000732421875,
+          "mean_price": 216.4811896773687,
+          "median_price": 220.66000366210938
+        }
+      }
+    }
+  },
+  "AVGO": {
+    "cik": "0001730168",
+    "name": "Broadcom Inc.",
+    "2015": {
+      "quarterly": {
+        "2015-11-01": {
+          "revenue": null,
+          "net_income": null,
+          "assets": null,
+          "equity": 4714000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": null,
+        "net_income": null,
+        "assets": null,
+        "equity": 4714000000,
+        "debt": null,
+        "operating_cash_flow": null,
+        "stock_price": {
+          "max_price": 11.364130020141602,
+          "min_price": 7.284191608428955,
+          "mean_price": 9.553700263538058,
+          "median_price": 9.558410167694092
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-10-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": null,
+          "equity": 21876000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": null,
+        "net_income": null,
+        "assets": null,
+        "equity": 21876000000,
+        "debt": null,
+        "operating_cash_flow": null,
+        "stock_price": {
+          "max_price": 14.176835060119629,
+          "min_price": 8.908379554748535,
+          "mean_price": 12.111053220809453,
+          "median_price": 12.275649547576904
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-01-29": {
+          "revenue": 4139000000,
+          "net_income": 239000000,
+          "assets": null,
+          "equity": null,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2017-04-30": {
+          "revenue": 4190000000,
+          "net_income": 440000000,
+          "assets": null,
+          "equity": null,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2017-07-30": {
+          "revenue": 4463000000,
+          "net_income": 481000000,
+          "assets": null,
+          "equity": null,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2017-10-29": {
+          "revenue": 4844000000,
+          "net_income": 532000000,
+          "assets": 54418000000,
+          "equity": 23186000000,
+          "debt": 17548000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 17636000000,
+        "net_income": 1692000000,
+        "assets": 54418000000,
+        "equity": 23186000000,
+        "debt": 17548000000,
+        "operating_cash_flow": null,
+        "stock_price": {
+          "max_price": 22.41900634765625,
+          "min_price": 13.552398681640625,
+          "mean_price": 18.526968747021193,
+          "median_price": 18.950056076049805
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-02-04": {
+          "revenue": 5327000000,
+          "net_income": 6566000000,
+          "assets": null,
+          "equity": 29081000000,
+          "debt": null,
+          "operating_cash_flow": 1685000000
+        },
+        "2018-05-06": {
+          "revenue": 5014000000,
+          "net_income": 3733000000,
+          "assets": 54936000000,
+          "equity": 32067000000,
+          "debt": 17598000000,
+          "operating_cash_flow": null
+        },
+        "2018-08-05": {
+          "revenue": 5063000000,
+          "net_income": 1196000000,
+          "assets": 50372000000,
+          "equity": 27452000000,
+          "debt": 17604000000,
+          "operating_cash_flow": null
+        },
+        "2018-11-04": {
+          "revenue": 5444000000,
+          "net_income": 1115000000,
+          "assets": 50124000000,
+          "equity": 26657000000,
+          "debt": 17493000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 20848000000,
+        "net_income": 12610000000,
+        "assets": 50124000000,
+        "equity": 26657000000,
+        "debt": 17493000000,
+        "operating_cash_flow": 1685000000,
+        "stock_price": {
+          "max_price": 21.7406005859375,
+          "min_price": 16.50678253173828,
+          "mean_price": 19.365797126435663,
+          "median_price": 19.46341323852539
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-02-03": {
+          "revenue": 5789000000,
+          "net_income": 471000000,
+          "assets": 72110000000,
+          "equity": 23224000000,
+          "debt": 37641000000,
+          "operating_cash_flow": 2132000000
+        },
+        "2019-05-05": {
+          "revenue": 5517000000,
+          "net_income": 691000000,
+          "assets": 70916000000,
+          "equity": 22172000000,
+          "debt": 37548000000,
+          "operating_cash_flow": null
+        },
+        "2019-08-04": {
+          "revenue": 5515000000,
+          "net_income": 715000000,
+          "assets": 69767000000,
+          "equity": 21503000000,
+          "debt": 37565000000,
+          "operating_cash_flow": null
+        },
+        "2019-11-03": {
+          "revenue": 5776000000,
+          "net_income": 847000000,
+          "assets": 67493000000,
+          "equity": 24941000000,
+          "debt": 30011000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 22597000000,
+        "net_income": 2724000000,
+        "assets": 67493000000,
+        "equity": 24941000000,
+        "debt": 30011000000,
+        "operating_cash_flow": 2132000000,
+        "stock_price": {
+          "max_price": 27.97160530090332,
+          "min_price": 19.171720504760742,
+          "mean_price": 24.260392620449974,
+          "median_price": 24.14419174194336
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-02-02": {
+          "revenue": 5858000000,
+          "net_income": 385000000,
+          "assets": 81006000000,
+          "equity": 24368000000,
+          "debt": 44663000000,
+          "operating_cash_flow": 2322000000
+        },
+        "2020-05-03": {
+          "revenue": 5742000000,
+          "net_income": 563000000,
+          "assets": 81548000000,
+          "equity": 23942000000,
+          "debt": 45808000000,
+          "operating_cash_flow": null
+        },
+        "2020-08-02": {
+          "revenue": 5821000000,
+          "net_income": 688000000,
+          "assets": 79298000000,
+          "equity": 23557000000,
+          "debt": 43956000000,
+          "operating_cash_flow": null
+        },
+        "2020-11-01": {
+          "revenue": 6467000000,
+          "net_income": 1324000000,
+          "assets": 75933000000,
+          "equity": 23874000000,
+          "debt": 40994000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 23888000000,
+        "net_income": 2960000000,
+        "assets": 75933000000,
+        "equity": 23874000000,
+        "debt": 40994000000,
+        "operating_cash_flow": 2322000000,
+        "stock_price": {
+          "max_price": 39.46467590332031,
+          "min_price": 14.469669342041016,
+          "mean_price": 28.417401038610887,
+          "median_price": 27.731138229370117
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-01-31": {
+          "revenue": 6655000000,
+          "net_income": 1378000000,
+          "assets": 76972000000,
+          "equity": 23973000000,
+          "debt": 41868000000,
+          "operating_cash_flow": 3113000000
+        },
+        "2021-05-02": {
+          "revenue": 6610000000,
+          "net_income": 1493000000,
+          "assets": 75524000000,
+          "equity": 23939000000,
+          "debt": 40376000000,
+          "operating_cash_flow": null
+        },
+        "2021-08-01": {
+          "revenue": 6778000000,
+          "net_income": 1876000000,
+          "assets": 75880000000,
+          "equity": 24340000000,
+          "debt": 40399000000,
+          "operating_cash_flow": null
+        },
+        "2021-10-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 75570000000,
+          "equity": 24962000000,
+          "debt": 39440000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 20043000000,
+        "net_income": 4747000000,
+        "assets": 75570000000,
+        "equity": 24962000000,
+        "debt": 39440000000,
+        "operating_cash_flow": 3113000000,
+        "stock_price": {
+          "max_price": 62.579471588134766,
+          "min_price": 37.96847915649414,
+          "mean_price": 45.12822721874903,
+          "median_price": 43.71393585205078
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-01-30": {
+          "revenue": 7706000000,
+          "net_income": 2472000000,
+          "assets": 73224000000,
+          "equity": 22968000000,
+          "debt": 39441000000,
+          "operating_cash_flow": 3486000000
+        },
+        "2022-05-01": {
+          "revenue": 8103000000,
+          "net_income": 2590000000,
+          "assets": 71719000000,
+          "equity": 20963000000,
+          "debt": 40958000000,
+          "operating_cash_flow": null
+        },
+        "2022-07-31": {
+          "revenue": 8464000000,
+          "net_income": 3074000000,
+          "assets": 71326000000,
+          "equity": 20876000000,
+          "debt": 40958000000,
+          "operating_cash_flow": null
+        },
+        "2022-10-30": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 73249000000,
+          "equity": 22709000000,
+          "debt": 39075000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 24273000000,
+        "net_income": 8136000000,
+        "assets": 73249000000,
+        "equity": 22709000000,
+        "debt": 39075000000,
+        "operating_cash_flow": 3486000000,
+        "stock_price": {
+          "max_price": 62.267642974853516,
+          "min_price": 40.57515335083008,
+          "mean_price": 50.85268563198378,
+          "median_price": 51.50923156738281
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-01-29": {
+          "revenue": 8915000000,
+          "net_income": 3774000000,
+          "assets": 72976000000,
+          "equity": 23310000000,
+          "debt": 38167000000,
+          "operating_cash_flow": 4036000000
+        },
+        "2023-04-30": {
+          "revenue": 8733000000,
+          "net_income": 3481000000,
+          "assets": 71667000000,
+          "equity": 22007000000,
+          "debt": 38194000000,
+          "operating_cash_flow": null
+        },
+        "2023-07-30": {
+          "revenue": 8876000000,
+          "net_income": 3303000000,
+          "assets": 71595000000,
+          "equity": 22079000000,
+          "debt": 38222000000,
+          "operating_cash_flow": null
+        },
+        "2023-10-29": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 72861000000,
+          "equity": 23988000000,
+          "debt": 37621000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 26524000000,
+        "net_income": 10558000000,
+        "assets": 72861000000,
+        "equity": 23988000000,
+        "debt": 37621000000,
+        "operating_cash_flow": 4036000000,
+        "stock_price": {
+          "max_price": 111.86231231689453,
+          "min_price": 53.02017593383789,
+          "mean_price": 75.87615980529785,
+          "median_price": 81.00264739990234
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-02-04": {
+          "revenue": 11961000000,
+          "net_income": 1325000000,
+          "assets": 177870000000,
+          "equity": 70284000000,
+          "debt": 73468000000,
+          "operating_cash_flow": 4815000000
+        },
+        "2024-05-05": {
+          "revenue": 12487000000,
+          "net_income": 2121000000,
+          "assets": 175211000000,
+          "equity": 69961000000,
+          "debt": 71590000000,
+          "operating_cash_flow": null
+        },
+        "2024-08-04": {
+          "revenue": 13072000000,
+          "net_income": -1875000000,
+          "assets": 167966000000,
+          "equity": 65651000000,
+          "debt": 66798000000,
+          "operating_cash_flow": null
+        },
+        "2024-11-03": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 165645000000,
+          "equity": 67678000000,
+          "debt": 66295000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 37520000000,
+        "net_income": 1571000000,
+        "assets": 165645000000,
+        "equity": 67678000000,
+        "debt": 66295000000,
+        "operating_cash_flow": 4815000000,
+        "stock_price": {
+          "max_price": 247.57186889648438,
+          "min_price": 102.77616882324219,
+          "mean_price": 150.61882554917108,
+          "median_price": 147.7995376586914
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-02-02": {
+          "revenue": 14916000000,
+          "net_income": 5503000000,
+          "assets": 165358000000,
+          "equity": 69789000000,
+          "debt": 60926000000,
+          "operating_cash_flow": 6113000000
+        },
+        "2025-05-04": {
+          "revenue": 15004000000,
+          "net_income": 4965000000,
+          "assets": 164630000000,
+          "equity": 69586000000,
+          "debt": 61751000000,
+          "operating_cash_flow": null
+        },
+        "2025-08-03": {
+          "revenue": 15952000000,
+          "net_income": 4140000000,
+          "assets": 165621000000,
+          "equity": 73277000000,
+          "debt": 62830000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 45872000000,
+        "net_income": 14608000000,
+        "assets": 165621000000,
+        "equity": 73277000000,
+        "debt": 62830000000,
+        "operating_cash_flow": 6113000000,
+        "stock_price": {
+          "max_price": 397.57000732421875,
+          "min_price": 145.69683837890625,
+          "mean_price": 264.72649702836765,
+          "median_price": 255.03175354003906
+        }
+      }
+    }
+  },
+  "META": {
+    "cik": "0001326801",
+    "name": "Meta Platforms, Inc.",
+    "2012": {
+      "quarterly": {
+        "2012-03-31": {
+          "revenue": 1058000000,
+          "net_income": 205000000,
+          "assets": null,
+          "equity": null,
+          "debt": null,
+          "operating_cash_flow": 441000000
+        },
+        "2012-06-30": {
+          "revenue": 1184000000,
+          "net_income": -157000000,
+          "assets": 14928000000,
+          "equity": 13309000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-09-30": {
+          "revenue": 1262000000,
+          "net_income": -59000000,
+          "assets": 16038000000,
+          "equity": 14174000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 15103000000,
+          "equity": 11755000000,
+          "debt": 1500000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 3504000000,
+        "net_income": -11000000,
+        "assets": 15103000000,
+        "equity": 11755000000,
+        "debt": 1500000000,
+        "operating_cash_flow": 441000000,
+        "stock_price": {
+          "max_price": 37.99576950073242,
+          "min_price": 17.621368408203125,
+          "mean_price": 24.52192609233241,
+          "median_price": 23.147306442260742
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-03-31": {
+          "revenue": 1458000000,
+          "net_income": 219000000,
+          "assets": 15163000000,
+          "equity": 11824000000,
+          "debt": 1500000000,
+          "operating_cash_flow": 719000000
+        },
+        "2013-06-30": {
+          "revenue": 1813000000,
+          "net_income": 333000000,
+          "assets": 15724000000,
+          "equity": 12349000000,
+          "debt": 1500000000,
+          "operating_cash_flow": null
+        },
+        "2013-09-30": {
+          "revenue": 2016000000,
+          "net_income": 425000000,
+          "assets": 14933000000,
+          "equity": 13048000000,
+          "debt": 0,
+          "operating_cash_flow": null
+        },
+        "2013-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 17895000000,
+          "equity": 15470000000,
+          "debt": 0,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 5287000000,
+        "net_income": 977000000,
+        "assets": 17895000000,
+        "equity": 15470000000,
+        "debt": 0,
+        "operating_cash_flow": 719000000,
+        "stock_price": {
+          "max_price": 57.604881286621094,
+          "min_price": 22.759693145751953,
+          "mean_price": 35.26376009744311,
+          "median_price": 29.607476234436035
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-03-31": {
+          "revenue": 2502000000,
+          "net_income": 642000000,
+          "assets": 19028000000,
+          "equity": 16737000000,
+          "debt": null,
+          "operating_cash_flow": 1285000000
+        },
+        "2014-06-30": {
+          "revenue": 2910000000,
+          "net_income": 791000000,
+          "assets": 20769000000,
+          "equity": 18346000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2014-09-30": {
+          "revenue": 3203000000,
+          "net_income": 806000000,
+          "assets": 24188000000,
+          "equity": 21238000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2014-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 39966000000,
+          "equity": 36096000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 8615000000,
+        "net_income": 2239000000,
+        "assets": 39966000000,
+        "equity": 36096000000,
+        "debt": null,
+        "operating_cash_flow": 1285000000,
+        "stock_price": {
+          "max_price": 80.95095825195312,
+          "min_price": 53.202022552490234,
+          "mean_price": 68.34103873419383,
+          "median_price": 68.64184188842773
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-31": {
+          "revenue": 3543000000,
+          "net_income": 512000000,
+          "assets": 42007000000,
+          "equity": 37501000000,
+          "debt": null,
+          "operating_cash_flow": 1700000000
+        },
+        "2015-06-30": {
+          "revenue": 4042000000,
+          "net_income": 719000000,
+          "assets": 44130000000,
+          "equity": 39452000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2015-09-30": {
+          "revenue": 4501000000,
+          "net_income": 896000000,
+          "assets": 46469000000,
+          "equity": 41420000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2015-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 49407000000,
+          "equity": 44218000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 12086000000,
+        "net_income": 2127000000,
+        "assets": 49407000000,
+        "equity": 44218000000,
+        "debt": null,
+        "operating_cash_flow": 1700000000,
+        "stock_price": {
+          "max_price": 108.34210968017578,
+          "min_price": 73.5962905883789,
+          "mean_price": 88.2289515601264,
+          "median_price": 86.25824356079102
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-31": {
+          "revenue": 5382000000,
+          "net_income": 1738000000,
+          "assets": 52262000000,
+          "equity": 47150000000,
+          "debt": null,
+          "operating_cash_flow": 3477000000
+        },
+        "2016-06-30": {
+          "revenue": 6436000000,
+          "net_income": 2283000000,
+          "assets": 55968000000,
+          "equity": 50383000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2016-09-30": {
+          "revenue": 7011000000,
+          "net_income": 2627000000,
+          "assets": 60007000000,
+          "equity": 54115000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2016-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 64961000000,
+          "equity": 59194000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 18829000000,
+        "net_income": 6648000000,
+        "assets": 64961000000,
+        "equity": 59194000000,
+        "debt": null,
+        "operating_cash_flow": 3477000000,
+        "stock_price": {
+          "max_price": 132.46340942382812,
+          "min_price": 93.58308410644531,
+          "mean_price": 116.31880197070893,
+          "median_price": 117.04346084594727
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-03-31": {
+          "revenue": 8032000000,
+          "net_income": 3064000000,
+          "assets": 68714000000,
+          "equity": 62188000000,
+          "debt": null,
+          "operating_cash_flow": 5058000000
+        },
+        "2017-06-30": {
+          "revenue": 9321000000,
+          "net_income": 3894000000,
+          "assets": 73843000000,
+          "equity": 66481000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2017-09-30": {
+          "revenue": 10328000000,
+          "net_income": 4707000000,
+          "assets": 78998000000,
+          "equity": 71208000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2017-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 84524000000,
+          "equity": 74347000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 27681000000,
+        "net_income": 11665000000,
+        "assets": 84524000000,
+        "equity": 74347000000,
+        "debt": null,
+        "operating_cash_flow": 5058000000,
+        "stock_price": {
+          "max_price": 181.90858459472656,
+          "min_price": 116.14400482177734,
+          "mean_price": 155.61684344774224,
+          "median_price": 152.6688232421875
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 11966000000,
+          "net_income": 4988000000,
+          "assets": 88945000000,
+          "equity": 77620000000,
+          "debt": null,
+          "operating_cash_flow": 7860000000
+        },
+        "2018-06-30": {
+          "revenue": 13231000000,
+          "net_income": 5106000000,
+          "assets": 90291000000,
+          "equity": 79382000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2018-09-30": {
+          "revenue": 13727000000,
+          "net_income": 5137000000,
+          "assets": 92452000000,
+          "equity": 80342000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2018-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 97334000000,
+          "equity": 84127000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 38924000000,
+        "net_income": 15231000000,
+        "assets": 97334000000,
+        "equity": 84127000000,
+        "debt": null,
+        "operating_cash_flow": 7860000000,
+        "stock_price": {
+          "max_price": 216.16737365722656,
+          "min_price": 123.29988861083984,
+          "mean_price": 170.4601182671657,
+          "median_price": 173.62960815429688
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-31": {
+          "revenue": 15077000000,
+          "net_income": 2429000000,
+          "assets": 109477000000,
+          "equity": 86516000000,
+          "debt": null,
+          "operating_cash_flow": 9308000000
+        },
+        "2019-06-30": {
+          "revenue": 16886000000,
+          "net_income": 2616000000,
+          "assets": 117006000000,
+          "equity": 88762000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2019-09-30": {
+          "revenue": 17652000000,
+          "net_income": 6091000000,
+          "assets": 124418000000,
+          "equity": 93999000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2019-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 133376000000,
+          "equity": 101054000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 49615000000,
+        "net_income": 11136000000,
+        "assets": 133376000000,
+        "equity": 101054000000,
+        "debt": null,
+        "operating_cash_flow": 9308000000,
+        "stock_price": {
+          "max_price": 206.82496643066406,
+          "min_price": 130.93284606933594,
+          "mean_price": 180.52461836073132,
+          "median_price": 183.53358459472656
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-31": {
+          "revenue": 17737000000,
+          "net_income": 4902000000,
+          "assets": 138371000000,
+          "equity": 105304000000,
+          "debt": null,
+          "operating_cash_flow": 11001000000
+        },
+        "2020-06-30": {
+          "revenue": 18687000000,
+          "net_income": 5178000000,
+          "assets": 139691000000,
+          "equity": 110447000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2020-09-30": {
+          "revenue": 21470000000,
+          "net_income": 7846000000,
+          "assets": 146437000000,
+          "equity": 117731000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2020-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 159316000000,
+          "equity": 128290000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 57894000000,
+        "net_income": 17926000000,
+        "assets": 159316000000,
+        "equity": 128290000000,
+        "debt": null,
+        "operating_cash_flow": 11001000000,
+        "stock_price": {
+          "max_price": 302.0479431152344,
+          "min_price": 145.1154022216797,
+          "mean_price": 233.11379027837822,
+          "median_price": 234.49440002441406
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-03-31": {
+          "revenue": 26171000000,
+          "net_income": 9497000000,
+          "assets": 163523000000,
+          "equity": 133657000000,
+          "debt": null,
+          "operating_cash_flow": 12242000000
+        },
+        "2021-06-30": {
+          "revenue": 29077000000,
+          "net_income": 10394000000,
+          "assets": 170609000000,
+          "equity": 138227000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2021-09-30": {
+          "revenue": 29010000000,
+          "net_income": 9194000000,
+          "assets": 169585000000,
+          "equity": 133360000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2021-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 165987000000,
+          "equity": 124879000000,
+          "debt": 0,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 84258000000,
+        "net_income": 29085000000,
+        "assets": 165987000000,
+        "equity": 124879000000,
+        "debt": 0,
+        "operating_cash_flow": 12242000000,
+        "stock_price": {
+          "max_price": 379.8384094238281,
+          "min_price": 244.13499450683594,
+          "mean_price": 319.1984634399414,
+          "median_price": 327.3470001220703
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-31": {
+          "revenue": 27908000000,
+          "net_income": 7465000000,
+          "assets": 164218000000,
+          "equity": 123228000000,
+          "debt": null,
+          "operating_cash_flow": 14076000000
+        },
+        "2022-06-30": {
+          "revenue": 28822000000,
+          "net_income": 6687000000,
+          "assets": 169779000000,
+          "equity": 125767000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2022-09-30": {
+          "revenue": 27714000000,
+          "net_income": 4395000000,
+          "assets": 178894000000,
+          "equity": 124094000000,
+          "debt": 9922000000,
+          "operating_cash_flow": null
+        },
+        "2022-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 185727000000,
+          "equity": 125713000000,
+          "debt": 9923000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 84444000000,
+        "net_income": 18547000000,
+        "assets": 185727000000,
+        "equity": 125713000000,
+        "debt": 9923000000,
+        "operating_cash_flow": 14076000000,
+        "stock_price": {
+          "max_price": 336.46575927734375,
+          "min_price": 88.36524963378906,
+          "mean_price": 179.08369053692456,
+          "median_price": 169.11746215820312
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-03-31": {
+          "revenue": 28645000000,
+          "net_income": 5709000000,
+          "assets": 184491000000,
+          "equity": 124795000000,
+          "debt": 9925000000,
+          "operating_cash_flow": 13998000000
+        },
+        "2023-06-30": {
+          "revenue": 31999000000,
+          "net_income": 7788000000,
+          "assets": 206688000000,
+          "equity": 134033000000,
+          "debt": 18382000000,
+          "operating_cash_flow": null
+        },
+        "2023-09-30": {
+          "revenue": 34146000000,
+          "net_income": 11583000000,
+          "assets": 216274000000,
+          "equity": 142873000000,
+          "debt": 18383000000,
+          "operating_cash_flow": null
+        },
+        "2023-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 229623000000,
+          "equity": 153168000000,
+          "debt": 18385000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 94790000000,
+        "net_income": 25080000000,
+        "assets": 229623000000,
+        "equity": 153168000000,
+        "debt": 18385000000,
+        "operating_cash_flow": 13998000000,
+        "stock_price": {
+          "max_price": 356.1246032714844,
+          "min_price": 123.9757308959961,
+          "mean_price": 259.82254959106444,
+          "median_price": 284.63031005859375
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-31": {
+          "revenue": 36455000000,
+          "net_income": 12369000000,
+          "assets": 222844000000,
+          "equity": 149529000000,
+          "debt": 18387000000,
+          "operating_cash_flow": 19246000000
+        },
+        "2024-06-30": {
+          "revenue": 39071000000,
+          "net_income": 13465000000,
+          "assets": 230238000000,
+          "equity": 156763000000,
+          "debt": 18389000000,
+          "operating_cash_flow": null
+        },
+        "2024-09-30": {
+          "revenue": 40589000000,
+          "net_income": 15688000000,
+          "assets": 256408000000,
+          "equity": 164529000000,
+          "debt": 28823000000,
+          "operating_cash_flow": null
+        },
+        "2024-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 276054000000,
+          "equity": 182637000000,
+          "debt": 28826000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 116115000000,
+        "net_income": 41522000000,
+        "assets": 276054000000,
+        "equity": 182637000000,
+        "debt": 28826000000,
+        "operating_cash_flow": 19246000000,
+        "stock_price": {
+          "max_price": 630.6968383789062,
+          "min_price": 342.3594665527344,
+          "mean_price": 507.09427340068515,
+          "median_price": 502.67335510253906
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-31": {
+          "revenue": 42314000000,
+          "net_income": 16644000000,
+          "assets": 280213000000,
+          "equity": 185029000000,
+          "debt": 28829000000,
+          "operating_cash_flow": 24026000000
+        },
+        "2025-06-30": {
+          "revenue": 47516000000,
+          "net_income": 18337000000,
+          "assets": 294744000000,
+          "equity": 195070000000,
+          "debt": 28832000000,
+          "operating_cash_flow": null
+        },
+        "2025-09-30": {
+          "revenue": 51242000000,
+          "net_income": 2709000000,
+          "assets": 303844000000,
+          "equity": 194066000000,
+          "debt": 28834000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 141072000000,
+        "net_income": 37690000000,
+        "assets": 303844000000,
+        "equity": 194066000000,
+        "debt": 28834000000,
+        "operating_cash_flow": 24026000000,
+        "stock_price": {
+          "max_price": 789.4671630859375,
+          "min_price": 483.9607238769531,
+          "mean_price": 670.1738132023077,
+          "median_price": 686.9574584960938
+        }
+      }
+    }
+  },
+  "TSLA": {
+    "cik": "0001318605",
+    "name": "Tesla, Inc.",
+    "2012": {
+      "quarterly": {
+        "2012-03-31": {
+          "revenue": 30167000,
+          "net_income": -89873000,
+          "assets": 761100000,
+          "equity": 153874000,
+          "debt": 340323000,
+          "operating_cash_flow": -63300000
+        },
+        "2012-06-30": {
+          "revenue": 26653000,
+          "net_income": -105603000,
+          "assets": 776869000,
+          "equity": 62215000,
+          "debt": 396155000,
+          "operating_cash_flow": null
+        },
+        "2012-09-30": {
+          "revenue": 50104000,
+          "net_income": -110804000,
+          "assets": 809177000,
+          "equity": -27875000,
+          "debt": 414207000,
+          "operating_cash_flow": null
+        },
+        "2012-12-31": {
+          "revenue": 306332000,
+          "net_income": -89932000,
+          "assets": 1114190000,
+          "equity": 124700000,
+          "debt": 401495000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 413256000,
+        "net_income": -396212000,
+        "assets": 1114190000,
+        "equity": 124700000,
+        "debt": 401495000,
+        "operating_cash_flow": -63300000,
+        "stock_price": {
+          "max_price": 2.5339999198913574,
+          "min_price": 1.519333004951477,
+          "mean_price": 2.0779066395759584,
+          "median_price": 2.0773335695266724
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-03-31": {
+          "revenue": 561792000,
+          "net_income": 11248000,
+          "assets": 1143778000,
+          "equity": 168583000,
+          "debt": 388785000,
+          "operating_cash_flow": 64079000
+        },
+        "2013-06-30": {
+          "revenue": 405139000,
+          "net_income": -30502000,
+          "assets": 1887844000,
+          "equity": 629426000,
+          "debt": 578740000,
+          "operating_cash_flow": null
+        },
+        "2013-09-30": {
+          "revenue": 431346000,
+          "net_income": -38496000,
+          "assets": 2166209000,
+          "equity": 564165000,
+          "debt": 582500000,
+          "operating_cash_flow": null
+        },
+        "2013-12-31": {
+          "revenue": 615219000,
+          "net_income": -16264000,
+          "assets": 2416930000,
+          "equity": 667120000,
+          "debt": 586119000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 2013496000,
+        "net_income": -74014000,
+        "assets": 2416930000,
+        "equity": 667120000,
+        "debt": 586119000,
+        "operating_cash_flow": 64079000,
+        "stock_price": {
+          "max_price": 12.891332626342773,
+          "min_price": 2.194000005722046,
+          "mean_price": 6.960081993587433,
+          "median_price": 7.747333288192749
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-03-31": {
+          "revenue": 620542000,
+          "net_income": -49800000,
+          "assets": 4500410000,
+          "equity": 912056000,
+          "debt": 1519967000,
+          "operating_cash_flow": 58723000
+        },
+        "2014-06-30": {
+          "revenue": 769349000,
+          "net_income": -61900000,
+          "assets": 5054463000,
+          "equity": 952333000,
+          "debt": 593700000,
+          "operating_cash_flow": null
+        },
+        "2014-09-30": {
+          "revenue": 851804000,
+          "net_income": -74708000,
+          "assets": 5437533000,
+          "equity": 958094000,
+          "debt": 597600000,
+          "operating_cash_flow": null
+        },
+        "2014-12-31": {
+          "revenue": 956661000,
+          "net_income": -107630000,
+          "assets": 5830667000,
+          "equity": 911710000,
+          "debt": 1818785000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 3198356000,
+        "net_income": -294038000,
+        "assets": 5830667000,
+        "equity": 911710000,
+        "debt": 1818785000,
+        "operating_cash_flow": 58723000,
+        "stock_price": {
+          "max_price": 19.069332122802734,
+          "min_price": 9.28933334350586,
+          "mean_price": 14.888605814131479,
+          "median_price": 14.980999946594238
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-31": {
+          "revenue": 939880000,
+          "net_income": -154181000,
+          "assets": 6120030000,
+          "equity": 825997000,
+          "debt": null,
+          "operating_cash_flow": -131794000
+        },
+        "2015-06-30": {
+          "revenue": 954976000,
+          "net_income": -184227000,
+          "assets": 6468185000,
+          "equity": 715934000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2015-09-30": {
+          "revenue": 936789000,
+          "net_income": -229858000,
+          "assets": 7547497000,
+          "equity": 1314656000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2015-12-31": {
+          "revenue": 1214379000,
+          "net_income": -320397000,
+          "assets": 8067939000,
+          "equity": 1083704000,
+          "debt": 2021093000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 4046024000,
+        "net_income": -888663000,
+        "assets": 8067939000,
+        "equity": 1083704000,
+        "debt": 2021093000,
+        "operating_cash_flow": -131794000,
+        "stock_price": {
+          "max_price": 18.817333221435547,
+          "min_price": 12.333333015441895,
+          "mean_price": 15.336193088501219,
+          "median_price": 15.360333919525146
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-31": {
+          "revenue": 1147048000,
+          "net_income": -282267000,
+          "assets": 9191702000,
+          "equity": 970365000,
+          "debt": 2484329000,
+          "operating_cash_flow": -249605000
+        },
+        "2016-06-30": {
+          "revenue": 1270017000,
+          "net_income": -293188000,
+          "assets": 11868952000,
+          "equity": 2520294000,
+          "debt": 2620002000,
+          "operating_cash_flow": null
+        },
+        "2016-09-30": {
+          "revenue": 2298436000,
+          "net_income": 21878000,
+          "assets": 12592397000,
+          "equity": 2680488000,
+          "debt": 2443420000,
+          "operating_cash_flow": null
+        },
+        "2016-12-31": {
+          "revenue": 2284631000,
+          "net_income": -121337000,
+          "assets": 22664076000,
+          "equity": 5538000000,
+          "debt": 5892016000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 7000132000,
+        "net_income": -674914000,
+        "assets": 22664076000,
+        "equity": 5538000000,
+        "debt": 5892016000,
+        "operating_cash_flow": -249605000,
+        "stock_price": {
+          "max_price": 17.69466781616211,
+          "min_price": 9.57800006866455,
+          "mean_price": 13.984484154080588,
+          "median_price": 13.91366720199585
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-03-31": {
+          "revenue": 2696270000,
+          "net_income": -330277000,
+          "assets": 25053726000,
+          "equity": 4987719000,
+          "debt": 6927937000,
+          "operating_cash_flow": -69811000
+        },
+        "2017-06-30": {
+          "revenue": 2789557000,
+          "net_income": -336397000,
+          "assets": 26043705000,
+          "equity": 5105752000,
+          "debt": 6755563000,
+          "operating_cash_flow": null
+        },
+        "2017-09-30": {
+          "revenue": 2984675000,
+          "net_income": -619376000,
+          "assets": 28107074000,
+          "equity": 4711480000,
+          "debt": 9049729000,
+          "operating_cash_flow": null
+        },
+        "2017-12-31": {
+          "revenue": 3288249000,
+          "net_income": -675350000,
+          "assets": 28655372000,
+          "equity": 5234000000,
+          "debt": 8828985000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 11758751000,
+        "net_income": -1961400000,
+        "assets": 28655372000,
+        "equity": 5234000000,
+        "debt": 8828985000,
+        "operating_cash_flow": -69811000,
+        "stock_price": {
+          "max_price": 25.666667938232422,
+          "min_price": 14.465999603271484,
+          "mean_price": 20.95441962618277,
+          "median_price": 21.170000076293945
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 3409000000,
+          "net_income": -709000000,
+          "assets": 27271429000,
+          "equity": 5314571000,
+          "debt": 8219577000,
+          "operating_cash_flow": -398376000
+        },
+        "2018-06-30": {
+          "revenue": 4002000000,
+          "net_income": -718000000,
+          "assets": 27910000000,
+          "equity": 4728000000,
+          "debt": 8626114000,
+          "operating_cash_flow": null
+        },
+        "2018-09-30": {
+          "revenue": 6824000000,
+          "net_income": 311000000,
+          "assets": 29262713000,
+          "equity": 5302000000,
+          "debt": 8665163000,
+          "operating_cash_flow": null
+        },
+        "2018-12-31": {
+          "revenue": 7226000000,
+          "net_income": 140000000,
+          "assets": 29740000000,
+          "equity": 5757000000,
+          "debt": 8411000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 21461000000,
+        "net_income": -976000000,
+        "assets": 29740000000,
+        "equity": 5757000000,
+        "debt": 8411000000,
+        "operating_cash_flow": -398376000,
+        "stock_price": {
+          "max_price": 25.30466651916504,
+          "min_price": 16.70400047302246,
+          "mean_price": 21.15399465522918,
+          "median_price": 21.257999420166016
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-31": {
+          "revenue": 4541000000,
+          "net_income": -702000000,
+          "assets": 28912524000,
+          "equity": 5468000000,
+          "debt": 8650023000,
+          "operating_cash_flow": -640000000
+        },
+        "2019-06-30": {
+          "revenue": 6350000000,
+          "net_income": -408000000,
+          "assets": 31872597000,
+          "equity": 6569000000,
+          "debt": 9905847000,
+          "operating_cash_flow": null
+        },
+        "2019-09-30": {
+          "revenue": 6303000000,
+          "net_income": 143000000,
+          "assets": 32795000000,
+          "equity": 6882000000,
+          "debt": 10096000000,
+          "operating_cash_flow": null
+        },
+        "2019-12-31": {
+          "revenue": 7384000000,
+          "net_income": 105000000,
+          "assets": 34309000000,
+          "equity": 7467000000,
+          "debt": 10402000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 24578000000,
+        "net_income": -862000000,
+        "assets": 34309000000,
+        "equity": 7467000000,
+        "debt": 10402000000,
+        "operating_cash_flow": -640000000,
+        "stock_price": {
+          "max_price": 28.729333877563477,
+          "min_price": 11.9313325881958,
+          "mean_price": 18.23534659733848,
+          "median_price": 17.35300064086914
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-31": {
+          "revenue": 5985000000,
+          "net_income": 16000000,
+          "assets": 37250000000,
+          "equity": 10040000000,
+          "debt": 9479000000,
+          "operating_cash_flow": -440000000
+        },
+        "2020-06-30": {
+          "revenue": 6036000000,
+          "net_income": 104000000,
+          "assets": 38135000000,
+          "equity": 10724000000,
+          "debt": 9247000000,
+          "operating_cash_flow": null
+        },
+        "2020-09-30": {
+          "revenue": 8771000000,
+          "net_income": 331000000,
+          "assets": 45691000000,
+          "equity": 16892000000,
+          "debt": 9428000000,
+          "operating_cash_flow": null
+        },
+        "2020-12-31": {
+          "revenue": 10744000000,
+          "net_income": 270000000,
+          "assets": 52148000000,
+          "equity": 23075000000,
+          "debt": 8462000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 31536000000,
+        "net_income": 721000000,
+        "assets": 52148000000,
+        "equity": 23075000000,
+        "debt": 8462000000,
+        "operating_cash_flow": -440000000,
+        "stock_price": {
+          "max_price": 235.22332763671875,
+          "min_price": 24.08133316040039,
+          "mean_price": 96.66568880495818,
+          "median_price": 80.57733154296875
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-03-31": {
+          "revenue": 10389000000,
+          "net_income": 438000000,
+          "assets": 52972000000,
+          "equity": 23864000000,
+          "debt": 8019000000,
+          "operating_cash_flow": 1641000000
+        },
+        "2021-06-30": {
+          "revenue": 11958000000,
+          "net_income": 1142000000,
+          "assets": 55146000000,
+          "equity": 25645000000,
+          "debt": 6878000000,
+          "operating_cash_flow": null
+        },
+        "2021-09-30": {
+          "revenue": 13757000000,
+          "net_income": 1618000000,
+          "assets": 57834000000,
+          "equity": 27889000000,
+          "debt": 5439000000,
+          "operating_cash_flow": null
+        },
+        "2021-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 62131000000,
+          "equity": 31015000000,
+          "debt": 4254000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 36104000000,
+        "net_income": 3198000000,
+        "assets": 62131000000,
+        "equity": 31015000000,
+        "debt": 4254000000,
+        "operating_cash_flow": 1641000000,
+        "stock_price": {
+          "max_price": 409.9700012207031,
+          "min_price": 187.6666717529297,
+          "mean_price": 259.9981617397732,
+          "median_price": 243.32333374023438
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-31": {
+          "revenue": 18756000000,
+          "net_income": 3318000000,
+          "assets": 66038000000,
+          "equity": 34947000000,
+          "debt": 2253000000,
+          "operating_cash_flow": 3995000000
+        },
+        "2022-06-30": {
+          "revenue": 16934000000,
+          "net_income": 2259000000,
+          "assets": 68513000000,
+          "equity": 37237000000,
+          "debt": 2095000000,
+          "operating_cash_flow": null
+        },
+        "2022-09-30": {
+          "revenue": 21454000000,
+          "net_income": 3292000000,
+          "assets": 74426000000,
+          "equity": 40703000000,
+          "debt": 1418000000,
+          "operating_cash_flow": null
+        },
+        "2022-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 82338000000,
+          "equity": 45489000000,
+          "debt": 1029000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 57144000000,
+        "net_income": 8869000000,
+        "assets": 82338000000,
+        "equity": 45489000000,
+        "debt": 1029000000,
+        "operating_cash_flow": 3995000000,
+        "stock_price": {
+          "max_price": 399.9266662597656,
+          "min_price": 109.0999984741211,
+          "mean_price": 263.0930809841688,
+          "median_price": 271.7066650390625
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-03-31": {
+          "revenue": 23329000000,
+          "net_income": 2513000000,
+          "assets": 86833000000,
+          "equity": 48828000000,
+          "debt": 817000000,
+          "operating_cash_flow": 2513000000
+        },
+        "2023-06-30": {
+          "revenue": 24927000000,
+          "net_income": 2703000000,
+          "assets": 90591000000,
+          "equity": 51894000000,
+          "debt": 504000000,
+          "operating_cash_flow": null
+        },
+        "2023-09-30": {
+          "revenue": 23350000000,
+          "net_income": 1853000000,
+          "assets": 93941000000,
+          "equity": 54218000000,
+          "debt": 2152000000,
+          "operating_cash_flow": null
+        },
+        "2023-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 106618000000,
+          "equity": 63367000000,
+          "debt": 2682000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 71606000000,
+        "net_income": 7069000000,
+        "assets": 106618000000,
+        "equity": 63367000000,
+        "debt": 2682000000,
+        "operating_cash_flow": 2513000000,
+        "stock_price": {
+          "max_price": 293.3399963378906,
+          "min_price": 108.0999984741211,
+          "mean_price": 217.4752395629883,
+          "median_price": 222.1449966430664
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-31": {
+          "revenue": 21301000000,
+          "net_income": 1390000000,
+          "assets": 109226000000,
+          "equity": 65604000000,
+          "debt": 2739000000,
+          "operating_cash_flow": 242000000
+        },
+        "2024-06-30": {
+          "revenue": 25500000000,
+          "net_income": 1400000000,
+          "assets": 112832000000,
+          "equity": 67610000000,
+          "debt": 5338000000,
+          "operating_cash_flow": null
+        },
+        "2024-09-30": {
+          "revenue": 25182000000,
+          "net_income": 2173000000,
+          "assets": 119852000000,
+          "equity": 71065000000,
+          "debt": 5275000000,
+          "operating_cash_flow": null
+        },
+        "2024-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 122070000000,
+          "equity": 72913000000,
+          "debt": 5535000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 71983000000,
+        "net_income": 4963000000,
+        "assets": 122070000000,
+        "equity": 72913000000,
+        "debt": 5535000000,
+        "operating_cash_flow": 242000000,
+        "stock_price": {
+          "max_price": 479.8599853515625,
+          "min_price": 142.0500030517578,
+          "mean_price": 230.61496062505813,
+          "median_price": 210.69499969482422
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-31": {
+          "revenue": 19335000000,
+          "net_income": 409000000,
+          "assets": 125111000000,
+          "equity": 75356000000,
+          "debt": 5080000000,
+          "operating_cash_flow": 2156000000
+        },
+        "2025-06-30": {
+          "revenue": 22496000000,
+          "net_income": 1172000000,
+          "assets": 128567000000,
+          "equity": 78011000000,
+          "debt": 4994000000,
+          "operating_cash_flow": null
+        },
+        "2025-09-30": {
+          "revenue": 28095000000,
+          "net_income": 1373000000,
+          "assets": 133735000000,
+          "equity": 79970000000,
+          "debt": 5609000000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 69926000000,
+        "net_income": 2954000000,
+        "assets": 133735000000,
+        "equity": 79970000000,
+        "debt": 5609000000,
+        "operating_cash_flow": 2156000000,
+        "stock_price": {
+          "max_price": 468.3699951171875,
+          "min_price": 221.86000061035156,
+          "mean_price": 346.51599087484084,
+          "median_price": 338.5299987792969
+        }
+      }
+    }
+  },
+  "BRK-B": {
+    "cik": "0001067983",
+    "name": "BERKSHIRE HATHAWAY INC",
+    "2012": {
+      "quarterly": {
+        "2012-03-31": {
+          "revenue": 38147000000,
+          "net_income": 3245000000,
+          "assets": 411362000000,
+          "equity": 180269000000,
+          "debt": null,
+          "operating_cash_flow": 4650000000
+        },
+        "2012-06-30": {
+          "revenue": 38546000000,
+          "net_income": 3108000000,
+          "assets": 411356000000,
+          "equity": 181715000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-09-30": {
+          "revenue": 41050000000,
+          "net_income": 3920000000,
+          "assets": 424115000000,
+          "equity": 189074000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2012-12-31": {
+          "revenue": 44720000000,
+          "net_income": 4551000000,
+          "assets": 427452000000,
+          "equity": 191588000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 162463000000,
+        "net_income": 14824000000,
+        "assets": 427452000000,
+        "equity": 191588000000,
+        "debt": null,
+        "operating_cash_flow": 4650000000,
+        "stock_price": {
+          "max_price": 90.69000244140625,
+          "min_price": 76.29000091552734,
+          "mean_price": 83.39396044921875,
+          "median_price": 83.0150032043457
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-03-31": {
+          "revenue": 43867000000,
+          "net_income": 4892000000,
+          "assets": 442302000000,
+          "equity": 202106000000,
+          "debt": null,
+          "operating_cash_flow": 6055000000
+        },
+        "2013-06-30": {
+          "revenue": 44693000000,
+          "net_income": 4541000000,
+          "assets": 446563000000,
+          "equity": 204988000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2013-09-30": {
+          "revenue": 46541000000,
+          "net_income": 5053000000,
+          "assets": 458081000000,
+          "equity": 211431000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2013-12-31": {
+          "revenue": 47049000000,
+          "net_income": 4990000000,
+          "assets": 484624000000,
+          "equity": 224485000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 182150000000,
+        "net_income": 19476000000,
+        "assets": 484624000000,
+        "equity": 224485000000,
+        "debt": null,
+        "operating_cash_flow": 6055000000,
+        "stock_price": {
+          "max_price": 118.94000244140625,
+          "min_price": 93.19999694824219,
+          "mean_price": 110.17924593365382,
+          "median_price": 113.06999969482422
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-03-31": {
+          "revenue": 45453000000,
+          "net_income": 4705000000,
+          "assets": 494944000000,
+          "equity": 230289000000,
+          "debt": null,
+          "operating_cash_flow": 4928000000
+        },
+        "2014-06-30": {
+          "revenue": 49762000000,
+          "net_income": 6395000000,
+          "assets": 504379000000,
+          "equity": 236760000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2014-09-30": {
+          "revenue": 51199000000,
+          "net_income": 4617000000,
+          "assets": 517363000000,
+          "equity": 240302000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2014-12-31": {
+          "revenue": 48259000000,
+          "net_income": 4155000000,
+          "assets": 525867000000,
+          "equity": 242096000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 194673000000,
+        "net_income": 19872000000,
+        "assets": 525867000000,
+        "equity": 242096000000,
+        "debt": null,
+        "operating_cash_flow": 4928000000,
+        "stock_price": {
+          "max_price": 152.6699981689453,
+          "min_price": 108.77999877929688,
+          "mean_price": 130.42416608901252,
+          "median_price": 128.12000274658203
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-31": {
+          "revenue": 48593000000,
+          "net_income": 5164000000,
+          "assets": 531076000000,
+          "equity": 244839000000,
+          "debt": null,
+          "operating_cash_flow": 5963000000
+        },
+        "2015-06-30": {
+          "revenue": 51549000000,
+          "net_income": 4013000000,
+          "assets": 540774000000,
+          "equity": 249202000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2015-09-30": {
+          "revenue": 59070000000,
+          "net_income": 9428000000,
+          "assets": 545468000000,
+          "equity": 251321000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2015-12-31": {
+          "revenue": 51731000000,
+          "net_income": 5478000000,
+          "assets": 552257000000,
+          "equity": 257696000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 210943000000,
+        "net_income": 24083000000,
+        "assets": 552257000000,
+        "equity": 257696000000,
+        "debt": null,
+        "operating_cash_flow": 5963000000,
+        "stock_price": {
+          "max_price": 151.3699951171875,
+          "min_price": 127.73999786376953,
+          "mean_price": 140.15103146386525,
+          "median_price": 141.37999725341797
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-31": {
+          "revenue": 52163000000,
+          "net_income": 5589000000,
+          "assets": 586315000000,
+          "equity": 261837000000,
+          "debt": null,
+          "operating_cash_flow": 7454000000
+        },
+        "2016-06-30": {
+          "revenue": 54254000000,
+          "net_income": 5001000000,
+          "assets": 592816000000,
+          "equity": 266258000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2016-09-30": {
+          "revenue": 58843000000,
+          "net_income": 7198000000,
+          "assets": 604038000000,
+          "equity": 272615000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2016-12-31": {
+          "revenue": 58344000000,
+          "net_income": 6286000000,
+          "assets": 620854000000,
+          "equity": 285428000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 223604000000,
+        "net_income": 24074000000,
+        "assets": 620854000000,
+        "equity": 285428000000,
+        "debt": null,
+        "operating_cash_flow": 7454000000,
+        "stock_price": {
+          "max_price": 166.6199951171875,
+          "min_price": 124.12999725341797,
+          "mean_price": 144.03269825284443,
+          "median_price": 143.92999267578125
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-03-31": {
+          "revenue": 64370000000,
+          "net_income": 4060000000,
+          "assets": 654451000000,
+          "equity": 295349000000,
+          "debt": null,
+          "operating_cash_flow": 18295000000
+        },
+        "2017-06-30": {
+          "revenue": 57256000000,
+          "net_income": 4262000000,
+          "assets": 665590000000,
+          "equity": 303162000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2017-09-30": {
+          "revenue": 59507000000,
+          "net_income": 4067000000,
+          "assets": 681554000000,
+          "equity": 310921000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2017-12-31": {
+          "revenue": 58800000000,
+          "net_income": 32551000000,
+          "assets": 702095000000,
+          "equity": 351954000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 239933000000,
+        "net_income": 44940000000,
+        "assets": 702095000000,
+        "equity": 351954000000,
+        "debt": null,
+        "operating_cash_flow": 18295000000,
+        "stock_price": {
+          "max_price": 199.55999755859375,
+          "min_price": 158.80999755859375,
+          "mean_price": 175.0896416774309,
+          "median_price": 171.85000610351562
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 58473000000,
+          "net_income": -1138000000,
+          "assets": 702651000000,
+          "equity": 351052000000,
+          "debt": null,
+          "operating_cash_flow": 7556000000
+        },
+        "2018-06-30": {
+          "revenue": 62200000000,
+          "net_income": 12011000000,
+          "assets": 711932000000,
+          "equity": 361758000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2018-09-30": {
+          "revenue": 63450000000,
+          "net_income": 18540000000,
+          "assets": 736459000000,
+          "equity": 379419000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2018-12-31": {
+          "revenue": 63714000000,
+          "net_income": -25392000000,
+          "assets": 707794000000,
+          "equity": 352500000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 247837000000,
+        "net_income": 4021000000,
+        "assets": 707794000000,
+        "equity": 352500000000,
+        "debt": null,
+        "operating_cash_flow": 7556000000,
+        "stock_price": {
+          "max_price": 223.75999450683594,
+          "min_price": 184.91000366210938,
+          "mean_price": 203.52780953821434,
+          "median_price": 202.4199981689453
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-31": {
+          "revenue": 60678000000,
+          "net_income": 21661000000,
+          "assets": 738724000000,
+          "equity": 372591000000,
+          "debt": null,
+          "operating_cash_flow": 7577000000
+        },
+        "2019-06-30": {
+          "revenue": 63598000000,
+          "net_income": 14073000000,
+          "assets": 760108000000,
+          "equity": 386391000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2019-09-30": {
+          "revenue": 64972000000,
+          "net_income": 16524000000,
+          "assets": 788482000000,
+          "equity": 401558000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2019-12-31": {
+          "revenue": 65368000000,
+          "net_income": 29159000000,
+          "assets": 817729000000,
+          "equity": 428563000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 254616000000,
+        "net_income": 81417000000,
+        "assets": 817729000000,
+        "equity": 428563000000,
+        "debt": null,
+        "operating_cash_flow": 7577000000,
+        "stock_price": {
+          "max_price": 227.0500030517578,
+          "min_price": 191.66000366210938,
+          "mean_price": 208.07242081657287,
+          "median_price": 206.6500015258789
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-31": {
+          "revenue": 61265000000,
+          "net_income": -49697000000,
+          "assets": 760448000000,
+          "equity": 375235000000,
+          "debt": null,
+          "operating_cash_flow": 6798000000
+        },
+        "2020-06-30": {
+          "revenue": 56840000000,
+          "net_income": 26407000000,
+          "assets": 788133000000,
+          "equity": 397253000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2020-09-30": {
+          "revenue": 63024000000,
+          "net_income": 30137000000,
+          "assets": 829946000000,
+          "equity": 419215000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2020-12-31": {
+          "revenue": 64381000000,
+          "net_income": 35835000000,
+          "assets": 873729000000,
+          "equity": 444908000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 245510000000,
+        "net_income": 42682000000,
+        "assets": 873729000000,
+        "equity": 444908000000,
+        "debt": null,
+        "operating_cash_flow": 6798000000,
+        "stock_price": {
+          "max_price": 233.9199981689453,
+          "min_price": 162.1300048828125,
+          "mean_price": 205.01023744123256,
+          "median_price": 208.9600067138672
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-01-01": {
+          "revenue": null,
+          "net_income": null,
+          "assets": null,
+          "equity": 436736000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2021-03-31": {
+          "revenue": 64599000000,
+          "net_income": 11840000000,
+          "assets": 884393000000,
+          "equity": 456176000000,
+          "debt": null,
+          "operating_cash_flow": 9306000000
+        },
+        "2021-06-30": {
+          "revenue": 69114000000,
+          "net_income": 28425000000,
+          "assets": 912493000000,
+          "equity": 478800000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2021-09-30": {
+          "revenue": 70583000000,
+          "net_income": 10344000000,
+          "assets": 920758000000,
+          "equity": 481075000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2021-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 959388000000,
+          "equity": 510299000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 204296000000,
+        "net_income": 50609000000,
+        "assets": 959388000000,
+        "equity": 510299000000,
+        "debt": null,
+        "operating_cash_flow": 9306000000,
+        "stock_price": {
+          "max_price": 300.1700134277344,
+          "min_price": 227.36000061035156,
+          "mean_price": 272.7105555458674,
+          "median_price": 278.7899932861328
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-31": {
+          "revenue": 70843000000,
+          "net_income": 5705000000,
+          "assets": 969506000000,
+          "equity": 514774000000,
+          "debt": null,
+          "operating_cash_flow": 6826000000
+        },
+        "2022-06-30": {
+          "revenue": 76201000000,
+          "net_income": -43242000000,
+          "assets": 909860000000,
+          "equity": 469844000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2022-09-30": {
+          "revenue": 76904000000,
+          "net_income": -2798000000,
+          "assets": 902296000000,
+          "equity": 465230000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2022-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 948465000000,
+          "equity": 481681000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 223948000000,
+        "net_income": -40335000000,
+        "assets": 948465000000,
+        "equity": 481681000000,
+        "debt": null,
+        "operating_cash_flow": 6826000000,
+        "stock_price": {
+          "max_price": 359.57000732421875,
+          "min_price": 264.0,
+          "mean_price": 304.48920261337463,
+          "median_price": 307.19000244140625
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-03-31": {
+          "revenue": 85393000000,
+          "net_income": 35757000000,
+          "assets": 997072000000,
+          "equity": 513077000000,
+          "debt": null,
+          "operating_cash_flow": 8693000000
+        },
+        "2023-06-30": {
+          "revenue": 92503000000,
+          "net_income": 36199000000,
+          "assets": 1041573000000,
+          "equity": 548551000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2023-09-30": {
+          "revenue": 93210000000,
+          "net_income": -12767000000,
+          "assets": 1019933000000,
+          "equity": 531497000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2023-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 1069978000000,
+          "equity": 567509000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 271106000000,
+        "net_income": 59189000000,
+        "assets": 1069978000000,
+        "equity": 567509000000,
+        "debt": null,
+        "operating_cash_flow": 8693000000,
+        "stock_price": {
+          "max_price": 370.4800109863281,
+          "min_price": 293.510009765625,
+          "mean_price": 335.21951965332033,
+          "median_price": 337.86000061035156
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-31": {
+          "revenue": 89869000000,
+          "net_income": 12832000000,
+          "assets": 1070035000000,
+          "equity": 577785000000,
+          "debt": null,
+          "operating_cash_flow": 10566000000
+        },
+        "2024-06-30": {
+          "revenue": 93653000000,
+          "net_income": 30498000000,
+          "assets": 1108860000000,
+          "equity": 607971000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2024-09-30": {
+          "revenue": 92995000000,
+          "net_income": 26251000000,
+          "assets": 1147251000000,
+          "equity": 631806000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2024-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 1153881000000,
+          "equity": 649368000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 276517000000,
+        "net_income": 69581000000,
+        "assets": 1153881000000,
+        "equity": 649368000000,
+        "debt": null,
+        "operating_cash_flow": 10566000000,
+        "stock_price": {
+          "max_price": 483.0799865722656,
+          "min_price": 359.2900085449219,
+          "mean_price": 426.93186526828345,
+          "median_price": 417.0800018310547
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-31": {
+          "revenue": 89725000000,
+          "net_income": 4672000000,
+          "assets": 1164532000000,
+          "equity": 656742000000,
+          "debt": null,
+          "operating_cash_flow": 10903000000
+        },
+        "2025-06-30": {
+          "revenue": 92515000000,
+          "net_income": 12457000000,
+          "assets": 1163968000000,
+          "equity": 670276000000,
+          "debt": null,
+          "operating_cash_flow": null
+        },
+        "2025-09-30": {
+          "revenue": 94972000000,
+          "net_income": 30796000000,
+          "assets": 1225963000000,
+          "equity": 698155000000,
+          "debt": null,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 277212000000,
+        "net_income": 47925000000,
+        "assets": 1225963000000,
+        "equity": 698155000000,
+        "debt": null,
+        "operating_cash_flow": 10903000000,
+        "stock_price": {
+          "max_price": 539.7999877929688,
+          "min_price": 442.6600036621094,
+          "mean_price": 493.24907452419467,
+          "median_price": 492.8500061035156
+        }
+      }
+    }
+  },
+  "LLY": {
+    "cik": "0000059478",
+    "name": "ELI LILLY & Co",
+    "2012": {
+      "quarterly": {
+        "2012-03-31": {
+          "revenue": 5602000000,
+          "net_income": 1011100000,
+          "assets": 32238200000,
+          "equity": 14822600000,
+          "debt": 5403200000,
+          "operating_cash_flow": 852500000
+        },
+        "2012-06-30": {
+          "revenue": 5600700000,
+          "net_income": 923600000,
+          "assets": 31812600000,
+          "equity": 14307900000,
+          "debt": 5500200000,
+          "operating_cash_flow": null
+        },
+        "2012-09-30": {
+          "revenue": 5443300000,
+          "net_income": 1326600000,
+          "assets": 34321000000,
+          "equity": 16056900000,
+          "debt": 5510900000,
+          "operating_cash_flow": null
+        },
+        "2012-12-31": {
+          "revenue": 5957300000,
+          "net_income": 827200000,
+          "assets": 34398900000,
+          "equity": 14765200000,
+          "debt": 5531300000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 22603300000,
+        "net_income": 4088500000,
+        "assets": 34398900000,
+        "equity": 14765200000,
+        "debt": 5531300000,
+        "operating_cash_flow": 852500000,
+        "stock_price": {
+          "max_price": 40.76721954345703,
+          "min_price": 28.49445343017578,
+          "mean_price": 32.67088149261475,
+          "median_price": 31.814000129699707
+        }
+      }
+    },
+    "2013": {
+      "quarterly": {
+        "2013-03-31": {
+          "revenue": 5602000000,
+          "net_income": 1548000000,
+          "assets": 32300100000,
+          "equity": 14955600000,
+          "debt": 4431600000,
+          "operating_cash_flow": 379400000
+        },
+        "2013-06-30": {
+          "revenue": 5929700000,
+          "net_income": 1206200000,
+          "assets": 33226000000,
+          "equity": 15236400000,
+          "debt": 4290800000,
+          "operating_cash_flow": null
+        },
+        "2013-09-30": {
+          "revenue": 5772600000,
+          "net_income": 1203100000,
+          "assets": 33965600000,
+          "equity": 16896100000,
+          "debt": 4263800000,
+          "operating_cash_flow": null
+        },
+        "2013-12-31": {
+          "revenue": 5808800000,
+          "net_income": 727500000,
+          "assets": 35248700000,
+          "equity": 17631400000,
+          "debt": 4200300000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 23113100000,
+        "net_income": 4684800000,
+        "assets": 35248700000,
+        "equity": 17631400000,
+        "debt": 4200300000,
+        "operating_cash_flow": 379400000,
+        "stock_price": {
+          "max_price": 45.05490493774414,
+          "min_price": 37.46846389770508,
+          "mean_price": 41.068492087106854,
+          "median_price": 40.9820442199707
+        }
+      }
+    },
+    "2014": {
+      "quarterly": {
+        "2014-03-31": {
+          "revenue": 4683100000,
+          "net_income": 727900000,
+          "assets": 34756900000,
+          "equity": 18338100000,
+          "debt": 5255300000,
+          "operating_cash_flow": 272300000
+        },
+        "2014-06-30": {
+          "revenue": 4935600000,
+          "net_income": 733500000,
+          "assets": 35018400000,
+          "equity": 17983700000,
+          "debt": 5301000000,
+          "operating_cash_flow": null
+        },
+        "2014-09-30": {
+          "revenue": 4875600000,
+          "net_income": 500600000,
+          "assets": 34648800000,
+          "equity": 17669300000,
+          "debt": 5292600000,
+          "operating_cash_flow": null
+        },
+        "2014-12-31": {
+          "revenue": 5121300000,
+          "net_income": 428500000,
+          "assets": 36307600000,
+          "equity": 15373200000,
+          "debt": 5332800000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 19615600000,
+        "net_income": 2390500000,
+        "assets": 36307600000,
+        "equity": 15373200000,
+        "debt": 5332800000,
+        "operating_cash_flow": 272300000,
+        "stock_price": {
+          "max_price": 59.74924087524414,
+          "min_price": 40.284664154052734,
+          "mean_price": 49.85408188047863,
+          "median_price": 49.56854820251465
+        }
+      }
+    },
+    "2015": {
+      "quarterly": {
+        "2015-03-31": {
+          "revenue": 4644700000,
+          "net_income": 529500000,
+          "assets": 35653900000,
+          "equity": 14919800000,
+          "debt": 7415300000,
+          "operating_cash_flow": -84800000
+        },
+        "2015-06-30": {
+          "revenue": 4978700000,
+          "net_income": 600800000,
+          "assets": 36036600000,
+          "equity": 14670300000,
+          "debt": 7988600000,
+          "operating_cash_flow": null
+        },
+        "2015-09-30": {
+          "revenue": 4959700000,
+          "net_income": 799700000,
+          "assets": 36304700000,
+          "equity": 15221400000,
+          "debt": 8069600000,
+          "operating_cash_flow": null
+        },
+        "2015-12-31": {
+          "revenue": 5375600000,
+          "net_income": 478400000,
+          "assets": 35568900000,
+          "equity": 14571300000,
+          "debt": 7978500000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 19958700000,
+        "net_income": 2408400000,
+        "assets": 35568900000,
+        "equity": 14571300000,
+        "debt": 7978500000,
+        "operating_cash_flow": -84800000,
+        "stock_price": {
+          "max_price": 75.3111572265625,
+          "min_price": 56.523983001708984,
+          "mean_price": 65.59336477612692,
+          "median_price": 67.30392456054688
+        }
+      }
+    },
+    "2016": {
+      "quarterly": {
+        "2016-03-31": {
+          "revenue": 4865100000,
+          "net_income": 440100000,
+          "assets": 34691800000,
+          "equity": 15009900000,
+          "debt": 7477600000,
+          "operating_cash_flow": -219100000
+        },
+        "2016-06-30": {
+          "revenue": 5404800000,
+          "net_income": 747700000,
+          "assets": 36475300000,
+          "equity": 14637300000,
+          "debt": 8685500000,
+          "operating_cash_flow": null
+        },
+        "2016-09-30": {
+          "revenue": 5191700000,
+          "net_income": 778000000,
+          "assets": 37590300000,
+          "equity": 15589200000,
+          "debt": 8707300000,
+          "operating_cash_flow": null
+        },
+        "2016-12-31": {
+          "revenue": 5760500000,
+          "net_income": 771800000,
+          "assets": 38805900000,
+          "equity": 14007700000,
+          "debt": 8367800000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 21222100000,
+        "net_income": 2737600000,
+        "assets": 38805900000,
+        "equity": 14007700000,
+        "debt": 8367800000,
+        "operating_cash_flow": -219100000,
+        "stock_price": {
+          "max_price": 71.36957550048828,
+          "min_price": 57.0561408996582,
+          "mean_price": 65.23550478617351,
+          "median_price": 65.12493896484375
+        }
+      }
+    },
+    "2017": {
+      "quarterly": {
+        "2017-03-31": {
+          "revenue": 5228300000,
+          "net_income": -110800000,
+          "assets": 37624300000,
+          "equity": 14031000000,
+          "debt": 7637500000,
+          "operating_cash_flow": 339900000
+        },
+        "2017-06-30": {
+          "revenue": 5824300000,
+          "net_income": 1008000000,
+          "assets": 40946500000,
+          "equity": 14100800000,
+          "debt": 9867900000,
+          "operating_cash_flow": null
+        },
+        "2017-09-30": {
+          "revenue": 5658000000,
+          "net_income": 555600000,
+          "assets": 43010400000,
+          "equity": 14890300000,
+          "debt": 9926600000,
+          "operating_cash_flow": null
+        },
+        "2017-12-31": {
+          "revenue": 6160700000,
+          "net_income": -1656900000,
+          "assets": 44981000000,
+          "equity": 11592200000,
+          "debt": 9940500000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 22871300000,
+        "net_income": -204100000,
+        "assets": 44981000000,
+        "equity": 11592200000,
+        "debt": 9940500000,
+        "operating_cash_flow": 339900000,
+        "stock_price": {
+          "max_price": 78.00074768066406,
+          "min_price": 64.50276947021484,
+          "mean_price": 72.06932301920249,
+          "median_price": 72.47188568115234
+        }
+      }
+    },
+    "2018": {
+      "quarterly": {
+        "2018-03-31": {
+          "revenue": 4963800000,
+          "net_income": 1217400000,
+          "assets": 44355600000,
+          "equity": 14527000000,
+          "debt": 9393500000,
+          "operating_cash_flow": 436500000
+        },
+        "2018-06-30": {
+          "revenue": 5585000000,
+          "net_income": -259900000,
+          "assets": 42359200000,
+          "equity": 11555200000,
+          "debt": 9170500000,
+          "operating_cash_flow": null
+        },
+        "2018-09-30": {
+          "revenue": 5306900000,
+          "net_income": 1149500000,
+          "assets": 44625100000,
+          "equity": 13076600000,
+          "debt": 11674700000,
+          "operating_cash_flow": null
+        },
+        "2018-12-31": {
+          "revenue": 5637600000,
+          "net_income": 1125100000,
+          "assets": 43908400000,
+          "equity": 9828700000,
+          "debt": 9196400000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 21493300000,
+        "net_income": 3232100000,
+        "assets": 43908400000,
+        "equity": 9828700000,
+        "debt": 9196400000,
+        "operating_cash_flow": 436500000,
+        "stock_price": {
+          "max_price": 107.93680572509766,
+          "min_price": 65.86002349853516,
+          "mean_price": 84.32200817092956,
+          "median_price": 77.92579650878906
+        }
+      }
+    },
+    "2019": {
+      "quarterly": {
+        "2019-03-31": {
+          "revenue": 5092200000,
+          "net_income": 4241600000,
+          "assets": 38006800000,
+          "equity": 2480300000,
+          "debt": 13610200000,
+          "operating_cash_flow": 311300000
+        },
+        "2019-06-30": {
+          "revenue": 5636700000,
+          "net_income": 1327200000,
+          "assets": 38666400000,
+          "equity": 2780500000,
+          "debt": 13717600000,
+          "operating_cash_flow": null
+        },
+        "2019-09-30": {
+          "revenue": 5476600000,
+          "net_income": 1253900000,
+          "assets": 37893100000,
+          "equity": 3382500000,
+          "debt": 13662200000,
+          "operating_cash_flow": null
+        },
+        "2019-12-31": {
+          "revenue": 6114000000,
+          "net_income": 1495700000,
+          "assets": 39286100000,
+          "equity": 2606900000,
+          "debt": 13638500000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 22319500000,
+        "net_income": 8318400000,
+        "assets": 39286100000,
+        "equity": 2606900000,
+        "debt": 13638500000,
+        "operating_cash_flow": 311300000,
+        "stock_price": {
+          "max_price": 123.20272064208984,
+          "min_price": 98.23042297363281,
+          "mean_price": 107.25713427104647,
+          "median_price": 106.03857040405273
+        }
+      }
+    },
+    "2020": {
+      "quarterly": {
+        "2020-03-31": {
+          "revenue": 5859800000,
+          "net_income": 1456500000,
+          "assets": 41102800000,
+          "equity": 3078800000,
+          "debt": 13982300000,
+          "operating_cash_flow": 382400000
+        },
+        "2020-06-30": {
+          "revenue": 5499400000,
+          "net_income": 1412000000,
+          "assets": 41967000000,
+          "equity": 4092900000,
+          "debt": 15064400000,
+          "operating_cash_flow": null
+        },
+        "2020-09-30": {
+          "revenue": 5740600000,
+          "net_income": 1208400000,
+          "assets": 43946000000,
+          "equity": 4826900000,
+          "debt": 16334600000,
+          "operating_cash_flow": null
+        },
+        "2020-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 46633100000,
+          "equity": 5641600000,
+          "debt": 16348700000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 17099800000,
+        "net_income": 4076900000,
+        "assets": 46633100000,
+        "equity": 5641600000,
+        "debt": 16348700000,
+        "operating_cash_flow": 382400000,
+        "stock_price": {
+          "max_price": 163.8222198486328,
+          "min_price": 111.32907104492188,
+          "mean_price": 139.8791130578565,
+          "median_price": 140.28794860839844
+        }
+      }
+    },
+    "2021": {
+      "quarterly": {
+        "2021-03-31": {
+          "revenue": 6805600000,
+          "net_income": 1355300000,
+          "assets": 46838300000,
+          "equity": 6898700000,
+          "debt": 16199600000,
+          "operating_cash_flow": 1697400000
+        },
+        "2021-06-30": {
+          "revenue": 6740100000,
+          "net_income": 1390200000,
+          "assets": 47809000000,
+          "equity": 6444400000,
+          "debt": 14736600000,
+          "operating_cash_flow": null
+        },
+        "2021-09-30": {
+          "revenue": 6772800000,
+          "net_income": 1110100000,
+          "assets": 48187000000,
+          "equity": 7757000000,
+          "debt": 15522400000,
+          "operating_cash_flow": null
+        },
+        "2021-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 48806000000,
+          "equity": 8979200000,
+          "debt": 16741200000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 20318500000,
+        "net_income": 3855600000,
+        "assets": 48806000000,
+        "equity": 8979200000,
+        "debt": 16741200000,
+        "operating_cash_flow": 1697400000,
+        "stock_price": {
+          "max_price": 268.81634521484375,
+          "min_price": 155.93621826171875,
+          "mean_price": 215.0495753818088,
+          "median_price": 220.02074432373047
+        }
+      }
+    },
+    "2022": {
+      "quarterly": {
+        "2022-03-31": {
+          "revenue": 7810000000,
+          "net_income": 1902900000,
+          "assets": 46919300000,
+          "equity": 9330800000,
+          "debt": 15152900000,
+          "operating_cash_flow": 2523000000
+        },
+        "2022-06-30": {
+          "revenue": 6488000000,
+          "net_income": 952500000,
+          "assets": 47063600000,
+          "equity": 8544700000,
+          "debt": 14692000000,
+          "operating_cash_flow": null
+        },
+        "2022-09-30": {
+          "revenue": 6941600000,
+          "net_income": 1451700000,
+          "assets": 47461500000,
+          "equity": 10070100000,
+          "debt": 14143800000,
+          "operating_cash_flow": null
+        },
+        "2022-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 49489800000,
+          "equity": 10649800000,
+          "debt": 14815300000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 21239600000,
+        "net_income": 4307100000,
+        "assets": 49489800000,
+        "equity": 10649800000,
+        "debt": 14815300000,
+        "operating_cash_flow": 2523000000,
+        "stock_price": {
+          "max_price": 365.9636535644531,
+          "min_price": 227.03509521484375,
+          "mean_price": 298.58439441696106,
+          "median_price": 299.4469909667969
+        }
+      }
+    },
+    "2023": {
+      "quarterly": {
+        "2023-03-31": {
+          "revenue": 6960000000,
+          "net_income": 1344900000,
+          "assets": 53163000000,
+          "equity": 11190400000,
+          "debt": 18880500000,
+          "operating_cash_flow": 1730600000
+        },
+        "2023-06-30": {
+          "revenue": 8312100000,
+          "net_income": 1763200000,
+          "assets": 54814000000,
+          "equity": 11063800000,
+          "debt": 18158400000,
+          "operating_cash_flow": null
+        },
+        "2023-09-30": {
+          "revenue": 9498600000,
+          "net_income": -57400000,
+          "assets": 57915500000,
+          "equity": 11220400000,
+          "debt": 17923600000,
+          "operating_cash_flow": null
+        },
+        "2023-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 64006300000,
+          "equity": 10771900000,
+          "debt": 19104600000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 24770700000,
+        "net_income": 3050700000,
+        "assets": 64006300000,
+        "equity": 10771900000,
+        "debt": 19104600000,
+        "operating_cash_flow": 1730600000,
+        "stock_price": {
+          "max_price": 609.4351806640625,
+          "min_price": 304.32025146484375,
+          "mean_price": 456.4918747558594,
+          "median_price": 444.8349151611328
+        }
+      }
+    },
+    "2024": {
+      "quarterly": {
+        "2024-03-31": {
+          "revenue": 8768000000,
+          "net_income": 2242900000,
+          "assets": 63943500000,
+          "equity": 12812200000,
+          "debt": 24559900000,
+          "operating_cash_flow": 1166000000
+        },
+        "2024-06-30": {
+          "revenue": 11302800000,
+          "net_income": 2967000000,
+          "assets": 71874800000,
+          "equity": 13562000000,
+          "debt": 23730400000,
+          "operating_cash_flow": null
+        },
+        "2024-09-30": {
+          "revenue": 11439100000,
+          "net_income": 970300000,
+          "assets": 75606900000,
+          "equity": 14240000000,
+          "debt": 29045400000,
+          "operating_cash_flow": null
+        },
+        "2024-12-31": {
+          "revenue": null,
+          "net_income": null,
+          "assets": 78714900000,
+          "equity": 14192100000,
+          "debt": 28527100000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 31509900000,
+        "net_income": 6180200000,
+        "assets": 78714900000,
+        "equity": 14192100000,
+        "debt": 28527100000,
+        "operating_cash_flow": 1166000000,
+        "stock_price": {
+          "max_price": 951.3367919921875,
+          "min_price": 584.0039672851562,
+          "mean_price": 802.435074336945,
+          "median_price": 790.1868591308594
+        }
+      }
+    },
+    "2025": {
+      "quarterly": {
+        "2025-03-31": {
+          "revenue": 12728500000,
+          "net_income": 2759300000,
+          "assets": 89388800000,
+          "equity": 15764800000,
+          "debt": 34499500000,
+          "operating_cash_flow": 1665600000
+        },
+        "2025-06-30": {
+          "revenue": 15557700000,
+          "net_income": 5660500000,
+          "assets": 100922600000,
+          "equity": 18272900000,
+          "debt": 34180100000,
+          "operating_cash_flow": null
+        },
+        "2025-09-30": {
+          "revenue": 17600800000,
+          "net_income": 5582500000,
+          "assets": 114935400000,
+          "equity": 23793300000,
+          "debt": 40873600000,
+          "operating_cash_flow": null
+        }
+      },
+      "yearly": {
+        "revenue": 45887000000,
+        "net_income": 14002300000,
+        "assets": 114935400000,
+        "equity": 23793300000,
+        "debt": 40873600000,
+        "operating_cash_flow": 1665600000,
+        "stock_price": {
+          "max_price": 1109.93994140625,
+          "min_price": 623.3634033203125,
+          "mean_price": 802.3801417413787,
+          "median_price": 789.5791625976562
+        }
+      }
+    }
+  }
+}

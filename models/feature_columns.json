@@ -1,0 +1,16 @@
+[
+  "mean_price",
+  "revenue",
+  "net_income",
+  "assets",
+  "equity",
+  "debt",
+  "operating_cash_flow",
+  "net_margin",
+  "roa",
+  "roe",
+  "leverage",
+  "ocf_margin",
+  "rev_growth",
+  "ni_growth"
+]
